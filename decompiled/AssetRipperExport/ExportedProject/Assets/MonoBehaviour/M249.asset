@@ -1,0 +1,278 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc82371c4d1d1d096a9098dac3fc2c75, type: 3}
+  m_Name: M249
+  m_EditorClassIdentifier:
+  DivideDamage: 5
+  up_base: 1.1
+  lateral_base: 0.35
+  up_modifier: 0.6
+  lateral_modifier: 0.03
+  up_max: 12
+  lateral_max: 3
+  direction_change: 9
+  cost:
+    currentCryptoKey: 444444
+    hiddenValue: 449612
+    inited: 1
+    fakeValue: 5200
+    fakeValueActive: 1
+  award:
+    currentCryptoKey: 444444
+    hiddenValue: 444554
+    inited: 1
+    fakeValue: 150
+    fakeValueActive: 1
+  damage:
+    currentCryptoKey: 444444
+    hiddenValue: 444476
+    inited: 1
+    fakeValue: 32
+    fakeValueActive: 1
+  time:
+    currentCryptoKey: 230887
+    hiddenValue: 1082459111
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 2
+    fakeValueActive: 1
+  maxPatrons:
+    currentCryptoKey: 444444
+    hiddenValue: 444536
+    inited: 1
+    fakeValue: 100
+    fakeValueActive: 1
+  gunNumber: 1
+  sniper: 0
+  DrawSpeed:
+    currentCryptoKey: 230887
+    hiddenValue: 1065714663
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  staticRunAccuraty:
+    currentCryptoKey: 230887
+    hiddenValue: 1011349096
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.03
+    fakeValueActive: 1
+  handsReloadSpeed:
+    currentCryptoKey: 230887
+    hiddenValue: 1065714663
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  staticAccuraty:
+    currentCryptoKey: 230887
+    hiddenValue: 8717287
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  accuraty:
+    currentCryptoKey: 230887
+    hiddenValue: 1022431323
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.009
+    fakeValueActive: 1
+  RunInaccuraty:
+    currentCryptoKey: 230887
+    hiddenValue: 1061801770
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 1.6
+    fakeValueActive: 1
+  RunSpeedFactor:
+    currentCryptoKey: 230887
+    hiddenValue: 1065698279
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.75
+    fakeValueActive: 1
+  Range:
+    currentCryptoKey: 230887
+    hiddenValue: 1183122407
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 8192
+    fakeValueActive: 1
+  handDamageFactor:
+    currentCryptoKey: 230887
+    hiddenValue: 1068904660
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.7
+    fakeValueActive: 1
+  TorsoDamageFactor:
+    currentCryptoKey: 230887
+    hiddenValue: 1068904660
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.7
+    fakeValueActive: 1
+  LegsDamageFactor:
+    currentCryptoKey: 230887
+    hiddenValue: 1068904660
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.7
+    fakeValueActive: 1
+  headDamageFactor:
+    currentCryptoKey: 230887
+    hiddenValue: 1078554410
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 3.7
+    fakeValueActive: 1
+  WallThroughFactor:
+    currentCryptoKey: 230887
+    hiddenValue: 1065714663
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  shootCursor:
+    currentCryptoKey: 230887
+    hiddenValue: 1082500071
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 5
+    fakeValueActive: 1
+  cursorRecovery:
+    currentCryptoKey: 230887
+    hiddenValue: 1116021735
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 40
+    fakeValueActive: 1
+  shootCursorMax:
+    currentCryptoKey: 230887
+    hiddenValue: 1099297767
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 30
+    fakeValueActive: 1
+  shootTime:
+    currentCryptoKey: 230887
+    hiddenValue: 1037351691
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.09
+    fakeValueActive: 1
+  shootTimeNonAuto:
+    currentCryptoKey: 230887
+    hiddenValue: 1037351691
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.09
+    fakeValueActive: 1
+  bulletsPerShoot:
+    currentCryptoKey: 444444
+    hiddenValue: 444445
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  bulletSpeedFactor:
+    currentCryptoKey: 230887
+    hiddenValue: 1065714663
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  IndexShootDistanceBank: 8
+  IndexShootBank: 8
+  IndexShootSilencerDistanceBank: 0
+  IndexShootSilencerBank: 0
+  IndexShellBank: 0

@@ -1,0 +1,124 @@
+using System.Collections;
+using CodeStage.AntiCheat.ObscuredTypes;
+using SPD.Audio;
+using UnityEngine;
+
+public class MKAFHPMKFEO : FOGIOGKLNIP
+{
+	public BankEntry FALBAHFLMOI;
+
+	public BankEntry LFKLLILJLIH;
+
+	public BankEntry DLIHELFCGCK;
+
+	public BankEntry FAGOPCEFGJD;
+
+	public BankEntry MEGIICIMILC;
+
+	public BankEntry PMBJMLDNODH;
+
+	public string PFOOKKOIPLM;
+
+	public string LJFCKMMEJKN;
+
+	public MeshFilter GAJGBAGAJLA;
+
+	public MeshRenderer LNMHOBPJCGJ;
+
+	public Light JNHLCLCIPPJ;
+
+	public ObscuredBool BJLFIDLJNAH = ObscuredBool.FNIPJFGEFFD(EHAPKEKPMOE: false);
+
+	internal ObscuredFloat NMEHFOFKEAE = ObscuredFloat.FNIPJFGEFFD(0.75f);
+
+	public void Start()
+	{
+		JPBIAJIBLCG(PFOOKKOIPLM, LJFCKMMEJKN, GAJGBAGAJLA, LNMHOBPJCGJ);
+		GameSoundsObject hLEOCDKAKMJ = FOGIOGKLNIP.LPLJMLGKCLK.HLEOCDKAKMJ;
+		JNHLCLCIPPJ = GetComponent<Light>();
+		FALBAHFLMOI = hLEOCDKAKMJ.Pip;
+		LFKLLILJLIH = hLEOCDKAKMJ.Explode;
+		DLIHELFCGCK = hLEOCDKAKMJ.Difuse;
+		FAGOPCEFGJD = hLEOCDKAKMJ.DifuseRadio;
+		MEGIICIMILC = hLEOCDKAKMJ.BombPlanted;
+		PMBJMLDNODH = hLEOCDKAKMJ.BombPlant;
+		FOGIOGKLNIP.PIOANBBCFFP.LEDCIPHCLEB(MEGIICIMILC);
+		LEDCIPHCLEB(PMBJMLDNODH);
+		FOGIOGKLNIP.PIOANBBCFFP.HAFCMAMMPIJ("Bomb has been planted", HAPECBFBAEJ: true);
+		FOGIOGKLNIP.PIOANBBCFFP.JLFMGNFDGCK.Add(this);
+		StartCoroutine(CDINBIGPDEJ());
+	}
+
+	public void OnDestroy()
+	{
+		if (!FOGIOGKLNIP.CJOGLBBCDEC)
+		{
+			FOGIOGKLNIP.PIOANBBCFFP.JLFMGNFDGCK.Remove(this);
+		}
+	}
+
+	public void Update()
+	{
+		if (!ObscuredBool.FNIPJFGEFFD(FOGIOGKLNIP.PIOANBBCFFP.OPKDMODBFGA) && !ObscuredBool.FNIPJFGEFFD(FOGIOGKLNIP.PIOANBBCFFP.BOOJPIJMOEL))
+		{
+			NMEHFOFKEAE = ObscuredFloat.FNIPJFGEFFD(ObscuredFloat.FNIPJFGEFFD(NMEHFOFKEAE) - Time.deltaTime / 60f);
+			if (KAMAMHFJDGG && ObscuredFloat.FNIPJFGEFFD(NMEHFOFKEAE) < 0f)
+			{
+				KIKEOPPIKNP();
+			}
+		}
+	}
+
+	public IEnumerator CDINBIGPDEJ()
+	{
+		while (true)
+		{
+			yield return new WaitForSeconds(ObscuredFloat.FNIPJFGEFFD(NMEHFOFKEAE));
+			JNHLCLCIPPJ.intensity = 1.56f;
+			LEDCIPHCLEB(FALBAHFLMOI);
+			yield return new WaitForSeconds(0.1f);
+			JNHLCLCIPPJ.intensity = 0f;
+		}
+	}
+
+	public void KIKEOPPIKNP()
+	{
+		NCHOPAEKPBK(CHDLHLJEAKP);
+		APAMPKPNIPC();
+	}
+
+	[RPC]
+	private void CHDLHLJEAKP()
+	{
+		FOGIOGKLNIP.NGFDFPGNDCJ.LEDCIPHCLEB(LFKLLILJLIH);
+		FOGIOGKLNIP.PIOANBBCFFP.OPKDMODBFGA = ObscuredBool.FNIPJFGEFFD(EHAPKEKPMOE: true);
+		if (FOGIOGKLNIP.NMGDHKIKCED != null && (FOGIOGKLNIP.NMGDHKIKCED.ELGIKGAIIOD - base.ELGIKGAIIOD).magnitude < 5f)
+		{
+			FOGIOGKLNIP.NMGDHKIKCED.KNOEPICGNLK();
+		}
+		JMJLEDGJIJK("BigExplode", "Particles/", BAFJCPENDPG: true, null, null, base.ELGIKGAIIOD, Quaternion.identity);
+		foreach (JDILMODHLOJ item in FOGIOGKLNIP.PIOANBBCFFP.LDAKBEMPLEB)
+		{
+			if (item.JGECOECAJLK == GNMHJEPNHDL.Terrorists)
+			{
+				item.FBBDIENBDGM(1000);
+			}
+		}
+	}
+
+	public void NNKNOMCFFAL()
+	{
+		FOGIOGKLNIP.PIOANBBCFFP.MOAOGLECILB();
+		NCHOPAEKPBK(DKLONEAPFHJ);
+		APAMPKPNIPC();
+	}
+
+	[RPC]
+	public void DKLONEAPFHJ()
+	{
+		FOGIOGKLNIP.NGFDFPGNDCJ.LEDCIPHCLEB(FAGOPCEFGJD);
+		LEDCIPHCLEB(DLIHELFCGCK);
+		FOGIOGKLNIP.PIOANBBCFFP.HAFCMAMMPIJ("Bomb has been defused");
+		FOGIOGKLNIP.PIOANBBCFFP.BOOJPIJMOEL = ObscuredBool.FNIPJFGEFFD(EHAPKEKPMOE: true);
+	}
+}

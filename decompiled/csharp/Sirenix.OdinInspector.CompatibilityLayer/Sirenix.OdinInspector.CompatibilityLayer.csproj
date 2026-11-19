@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>Sirenix.OdinInspector.CompatibilityLayer</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>net40</TargetFramework>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup />
+  <ItemGroup>
+    <Reference Include="Sirenix.Serialization">
+      <HintPath>apk_raw/assets/bin/Data/Managed/Sirenix.Serialization.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>apk_raw/assets/bin/Data/Managed/UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.Networking">
+      <HintPath>apk_raw/assets/bin/Data/Managed/UnityEngine.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>apk_raw/assets/bin/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Security">
+      <HintPath>apk_raw/assets/bin/Data/Managed/Mono.Security.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

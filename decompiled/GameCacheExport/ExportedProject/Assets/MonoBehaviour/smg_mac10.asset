@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fee9981ff0df791386bf7d0320379c, type: 3}
+  m_Name: smg_mac10
+  m_EditorClassIdentifier:
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: e8cf3827af6d14d41875a0e279085b5b, type: 3}
+  - {fileID: 8300000, guid: 2f2ac1e1549a68c4da366acb2e4d656b, type: 3}
+  - {fileID: 8300000, guid: b256dd3b14a5f454dba321f311d47b42, type: 3}

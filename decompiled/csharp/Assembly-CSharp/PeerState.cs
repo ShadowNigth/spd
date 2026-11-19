@@ -1,0 +1,25 @@
+public enum PeerState
+{
+	Uninitialized,
+	PeerCreated,
+	Connecting,
+	Connected,
+	Queued,
+	Authenticated,
+	JoinedLobby,
+	DisconnectingFromMasterserver,
+	ConnectingToGameserver,
+	ConnectedToGameserver,
+	Joining,
+	Joined,
+	Leave,
+	Leaving,
+	Left,
+	DisconnectingFromGameserver,
+	ConnectingToMasterserver,
+	ConnectedComingFromGameserver,
+	QueuedComingFromGameserver,
+	Disconnect,
+	Disconnecting,
+	Disconnected
+}

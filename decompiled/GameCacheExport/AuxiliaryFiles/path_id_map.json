@@ -1,0 +1,6009 @@
+{
+  "Files": [
+    {
+      "Name": "cab-3943515438ef0c6b058317317420a344",
+      "Assets": [
+        {
+          "PathID": -5149251267501791151,
+          "Name": "pinpull",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5025516177086091868,
+          "Name": "smoke_grenade",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -694116103194295622,
+          "Name": "he_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 226390646976897089,
+          "Name": "smoke_grenade_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 4860413509919455222,
+          "Name": "w_eq_smokegrenade_combine",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6556461311722463411,
+          "Name": "pinpull_start",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-bcac7e7085336cb860ec42471ab8d998",
+      "Assets": [
+        {
+          "PathID": -6279026933113955653,
+          "Name": "shot_mag7_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2624644195922507721,
+          "Name": "w_shot_mag7",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2124678285506712849,
+          "Name": "shot_mag7",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-17bcb5795f35c5664d2ccf348f604148",
+      "Assets": [
+        {
+          "PathID": -294349359629563546,
+          "Name": "w_smg_mac10_dropped_w_smg_mac10",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 274654689788261490,
+          "Name": "smg_mac10_1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3271618674588428495,
+          "Name": "smg_mac10_1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5ca0da3d3dadfb5f4db86bbfffb5aae3",
+      "Assets": [
+        {
+          "PathID": -3877298802640443439,
+          "Name": "pist_glock18",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5209741747530149209,
+          "Name": "w_pist_glock18",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-543a126e273bd8c1e4b42e5e846cefc7",
+      "Assets": [
+        {
+          "PathID": -4639368404896885543,
+          "Name": "sawedoff_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2760972352234773304,
+          "Name": "ak47",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -229383930106521404,
+          "Name": "ak47_boltpull",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1859401953670220506,
+          "Name": "ak47_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5520256710134816235,
+          "Name": "w_rif_ak47",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6685196741575753630,
+          "Name": "ak47_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7925946720981825172,
+          "Name": "ak47_exponent",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-878da354c6df9e00914a263802c1a941",
+      "Assets": [
+        {
+          "PathID": -5848855318640972271,
+          "Name": "knife_ct_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3842207096323694595,
+          "Name": "knife_ct",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1728721660944124961,
+          "Name": "w_knife_default_ct",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-576b4caa02d530c8096cb3e9529dcd12",
+      "Assets": [
+        {
+          "PathID": -2056927290016682318,
+          "Name": "w_shot_sawedoff_dropped_w_shot_sawedoff",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6704484181588347065,
+          "Name": "shot_sawedoff_01_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6951502592606331250,
+          "Name": "shot_sawedoff_01",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-12327e03033608f4b30493955b85ac7c",
+      "Assets": [
+        {
+          "PathID": -2693951276679544429,
+          "Name": "m84_flashbang_grenade_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 513209592508123243,
+          "Name": "m84_flashbang_grenade",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6397674296364991510,
+          "Name": "w_eq_flashbang",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-1525ab503551b9b296078262eb388695",
+      "Assets": [
+        {
+          "PathID": -7087468871425679872,
+          "Name": "pist_223_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2254125488182047256,
+          "Name": "w_pist_223_dropped_w_pist_223",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4747373125381532941,
+          "Name": "pist_223",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8003122163941305824,
+          "Name": "w_pist_223_dropped_w_pist_223_silencer",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-c380314aca65b4fa867161767989d9cf",
+      "Assets": [
+        {
+          "PathID": -6613605637485403663,
+          "Name": "scar20_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2310243679339316428,
+          "Name": "scar20_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1358327967277981152,
+          "Name": "w_snip_scar20",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1775614277939988850,
+          "Name": "snip_scar20_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2118692823995846035,
+          "Name": "scar20_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2664561539170125284,
+          "Name": "snip_scar20",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4925863929435987882,
+          "Name": "scar20_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4934673531055695870,
+          "Name": "scar20_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-e6a5d48dcdb55d15cb1142becb225dcf",
+      "Assets": [
+        {
+          "PathID": -4432035689658443223,
+          "Name": "w_pist_tec9",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1180197585198129109,
+          "Name": "pist_tec9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2959277634108955662,
+          "Name": "pist_tec9_exponent",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-60165c4f8809ea576fdc32534c71c031",
+      "Assets": [
+        {
+          "PathID": -8693854690981142044,
+          "Name": "w_pist_fiveseven",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -7161051191404035103,
+          "Name": "fiveseven_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6142710525521957971,
+          "Name": "fiveseven",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-74fa8d7ce634503b7243b750549bc6e5",
+      "Assets": [
+        {
+          "PathID": -5848855318640972271,
+          "Name": "knife_ct_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3842207096323694595,
+          "Name": "knife_ct",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7741998570944026206,
+          "Name": "w_knife_default_ct_dropped_w_knife_default_ct",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-27786f42986b52c56068e2a874906029",
+      "Assets": [
+        {
+          "PathID": -5025516177086091868,
+          "Name": "smoke_grenade",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 226390646976897089,
+          "Name": "smoke_grenade_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4860413509919455222,
+          "Name": "w_eq_smokegrenade_combine",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-512e566ffbc141856f21208d205ad4f2",
+      "Assets": [
+        {
+          "PathID": -6685226368510419792,
+          "Name": "w_eq_fraggrenade_combine",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -694116103194295622,
+          "Name": "he_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6091125586819574440,
+          "Name": "pinpull",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6438278251905746423,
+          "Name": "pinpull_start",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8023170167289041171,
+          "Name": "m67_grenade_01",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-dbad1f1170bf9967930b3976e03a3d59",
+      "Assets": [
+        {
+          "PathID": -6279026933113955653,
+          "Name": "shot_mag7_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3083388618459430372,
+          "Name": "w_shot_mag7_dropped_w_shot_mag7",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2124678285506712849,
+          "Name": "shot_mag7",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5628897e5d6208456f141d0ce89bced7",
+      "Assets": [
+        {
+          "PathID": -8123462239283415428,
+          "Name": "v_model_base_arms_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -7837495052430736280,
+          "Name": "t_base_fingerless_glove_color",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -7331862808485807265,
+          "Name": "t_base_fingerless_glove_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -6620418289005593632,
+          "Name": "v_model_base_arms_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4131032528658789137,
+          "Name": "t_arms",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -3664185762711068576,
+          "Name": "t_base_fingerless_glove_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4358687567138708656,
+          "Name": "v_model_base_arms_color",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-2931fc8028084415aa5d06f06d1ae84b",
+      "Assets": [
+        {
+          "PathID": -5257634064113906463,
+          "Name": "w_smg_mp9",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1010494065903191257,
+          "Name": "smg_mp9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6109277143961985916,
+          "Name": "smg_mp9_exponent",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-81c84154b1742319c343250f6aeab454",
+      "Assets": [
+        {
+          "PathID": -8459511187562914151,
+          "Name": "w_rif_aug_dropped_w_rif_aug",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -7171937853211732437,
+          "Name": "rif_aug",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -373439124352424360,
+          "Name": "rif_aug_scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1001508847721872918,
+          "Name": "rif_aug_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1889065792279933064,
+          "Name": "rif_aug_scope_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6483871505057008893,
+          "Name": "scope_lens_reflect_mask",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-86291a1122d3009e7d68d68616c31fbf",
+      "Assets": [
+        {
+          "PathID": -4001289311356163818,
+          "Name": "c4_switch",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4308526699658010216,
+          "Name": "c4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6849561041482060690,
+          "Name": "w_ied_w_eq_c4",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-d2dd06eff1c4a283cc600eaacbf71ceb",
+      "Assets": [
+        {
+          "PathID": -2385563108400602520,
+          "Name": "w_snip_awp",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1004742796736424793,
+          "Name": "awp_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7213195905619414901,
+          "Name": "awp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-52be0deeb6d0967b0a9237d22cf4a45e",
+      "Assets": [
+        {
+          "PathID": -2265598084592408980,
+          "Name": "rif_sg556",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5409251557657727248,
+          "Name": "w_rif_sg556_dropped_w_rif_sg556",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6483871505057008893,
+          "Name": "scope_lens_reflect_mask",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-a2c97559974ad89d9a7f0c750c212121",
+      "Assets": [
+        {
+          "PathID": -8904830065854942383,
+          "Name": "pist_deagle_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -7471173680878940182,
+          "Name": "w_pist_deagle",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -6853283365086673190,
+          "Name": "de_slideback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6453891479491137686,
+          "Name": "de_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4443047893547521557,
+          "Name": "de_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2056535299395535238,
+          "Name": "de_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1149265248778885448,
+          "Name": "pist_deagle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2507549963307242358,
+          "Name": "de_slideforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4470247826252154168,
+          "Name": "hkp2000_draw",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-2c7e869c631925a2ec029cf0ade95389",
+      "Assets": [
+        {
+          "PathID": -6544704585713272066,
+          "Name": "Cylinder_Scope_Edit",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2709930973706543500,
+          "Name": "w_rif_sg556",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2265598084592408980,
+          "Name": "rif_sg556",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -69409406107219126,
+          "Name": "sg556_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4646783021993991864,
+          "Name": "sg556_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6483871505057008893,
+          "Name": "scope_lens_reflect_mask",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7732967601998465738,
+          "Name": "sg556_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8120400883067522498,
+          "Name": "sg556_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8431829303866050104,
+          "Name": "sg556_boltback",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-718007e300e1149e8baae2bf18d3bafe",
+      "Assets": [
+        {
+          "PathID": -7446082288805895921,
+          "Name": "smg_ump45_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4094623553142562492,
+          "Name": "w_smg_ump45_dropped_w_smg_ump45",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5352798056462374711,
+          "Name": "smg_ump45",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-2b5417cf10721f8b88e4d4333009d160",
+      "Assets": [
+        {
+          "PathID": -5263452339193673316,
+          "Name": "w_snip_ssg08_dropped_w_snip_ssg08",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2298921954895814949,
+          "Name": "snip_ssg08_scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5333778785125323122,
+          "Name": "snip_ssg08_scope_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6375950099475438289,
+          "Name": "snip_ssg08",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-3778410993ea82242606e6c68a7051f0",
+      "Assets": [
+        {
+          "PathID": -5686675497603799497,
+          "Name": "w_eq_fraggrenade_dropped_w_eq_fraggrenade",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8023170167289041171,
+          "Name": "m67_grenade_01",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5bcdfc543cbde418694d17510cd0200d",
+      "Assets": [
+        {
+          "PathID": 274654689788261490,
+          "Name": "smg_mac10_1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2222747546955084006,
+          "Name": "w_smg_mac10",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3271618674588428495,
+          "Name": "smg_mac10_1",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-6b59fb92fae9d7737a384fedb84f8200",
+      "Assets": [
+        {
+          "PathID": -7171937853211732437,
+          "Name": "rif_aug",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1001508847721872918,
+          "Name": "rif_aug_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2990399599378695954,
+          "Name": "w_rif_aug",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6483871505057008893,
+          "Name": "scope_lens_reflect_mask",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-405b0ca7d287fa5c8b91d6097c859a2a",
+      "Assets": [
+        {
+          "PathID": -7651026249221633714,
+          "Name": "m4a1_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7252797257626933064,
+          "Name": "m4a1_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5163282096566010874,
+          "Name": "m4a1_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2113385724631177351,
+          "Name": "m4a1_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -639542330686872584,
+          "Name": "rif_m4a1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 165837478465021416,
+          "Name": "w_rif_m4a1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3615628325125724772,
+          "Name": "m4a1_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8686311065976226045,
+          "Name": "m4a1_cliphit",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-edc9f68d2172c2dcbbf2f369a537b074",
+      "Assets": [
+        {
+          "PathID": -7446082288805895921,
+          "Name": "smg_ump45_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -7380917258590696360,
+          "Name": "ump45_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4957332973962633845,
+          "Name": "ump45_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2376707148551943671,
+          "Name": "ump45_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3520213482900435259,
+          "Name": "ump45_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4165701500023321021,
+          "Name": "ump45_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5153452514793379703,
+          "Name": "w_smg_ump45",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5352798056462374711,
+          "Name": "smg_ump45",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-7bc22a74c31963b42a4c8b8039b48114",
+      "Assets": [
+        {
+          "PathID": -8792928364146447759,
+          "Name": "w_mach_m249",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4694018437471915144,
+          "Name": "m249_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6684955888084856884,
+          "Name": "m249",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-208790277e9e0047a03c2bf64c8dad17",
+      "Assets": [
+        {
+          "PathID": -2693951276679544429,
+          "Name": "m84_flashbang_grenade_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 513209592508123243,
+          "Name": "m84_flashbang_grenade",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6982131835716163007,
+          "Name": "w_eq_flashbang_dropped",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-3079253e8f5380ed15fbf083e1679d2e",
+      "Assets": [
+        {
+          "PathID": -7446082288805895921,
+          "Name": "smg_ump45_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5153452514793379703,
+          "Name": "w_smg_ump45",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5352798056462374711,
+          "Name": "smg_ump45",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-2eea9dd118ea8b9f2f57b4607e6fed7d",
+      "Assets": [
+        {
+          "PathID": -7755827081054648555,
+          "Name": "w_smg_mp7",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -3222295021198233536,
+          "Name": "smg_mp7",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -776997233670595847,
+          "Name": "mp7_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3104195142799026983,
+          "Name": "mp7_slideback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6270861950226667738,
+          "Name": "mp7_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6766339877396648577,
+          "Name": "mp7_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7447763531295692336,
+          "Name": "mp7_slideforward",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-7de9162116da8774b09621120c01ce5b",
+      "Assets": [
+        {
+          "PathID": -7874237308863653517,
+          "Name": "shot_nova_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6295527897220253299,
+          "Name": "shot_nova",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8024177889799068782,
+          "Name": "w_shot_nova",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-c095286918fed4752bef3624d3881fd3",
+      "Assets": [
+        {
+          "PathID": -8693854690981142044,
+          "Name": "w_pist_fiveseven",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -7161051191404035103,
+          "Name": "fiveseven_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -6097711943207491581,
+          "Name": "fiveseven_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 732692958625650200,
+          "Name": "fiveseven_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5227833695471016382,
+          "Name": "fiveseven_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5891094035616473247,
+          "Name": "fiveseven_sliderelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6142710525521957971,
+          "Name": "fiveseven",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7395838622996112654,
+          "Name": "fiveseven_slideback",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-7cc9e35bbcaa2e3187726d973c35c581",
+      "Assets": [
+        {
+          "PathID": -2709930973706543500,
+          "Name": "w_rif_sg556",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2265598084592408980,
+          "Name": "rif_sg556",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6483871505057008893,
+          "Name": "scope_lens_reflect_mask",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-45b4b340addc8114bdaf3a26ca04c60a",
+      "Assets": [
+        {
+          "PathID": -6431262364598979725,
+          "Name": "w_eq_smokegrenade_dropped_w_eq_smokegrenade",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -5025516177086091868,
+          "Name": "smoke_grenade",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 226390646976897089,
+          "Name": "smoke_grenade_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-f6092f048a1a49d7cac47eab04a63a14",
+      "Assets": [
+        {
+          "PathID": -7245533701368262063,
+          "Name": "p250",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -86109315786812153,
+          "Name": "p250_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 247367417376741794,
+          "Name": "w_pist_p250",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 492678008501770717,
+          "Name": "p250_sliderelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1600636065911292479,
+          "Name": "p250_slideback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2157969925404901649,
+          "Name": "p250_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4470247826252154168,
+          "Name": "hkp2000_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7072069492549772986,
+          "Name": "p250_clipin",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-c04aac3c12cfc78a8d6bf295be2947f4",
+      "Assets": [
+        {
+          "PathID": -5565589280130538660,
+          "Name": "shot_xm1014_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3228197697535566651,
+          "Name": "w_shot_xm1014",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5609594149361722603,
+          "Name": "shot_xm1014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7339090658664371308,
+          "Name": "dev_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-457dd323601e2d8243ae7de091a55fac",
+      "Assets": [
+        {
+          "PathID": 420500337399333458,
+          "Name": "pist_hkp2000",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2281316138852329458,
+          "Name": "w_pist_hkp2000_dropped_w_pist_hkp2000",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8654725574141165169,
+          "Name": "pist_hkp2000_exponent",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-8fb49da35a7c70bf035003e4e5f85a48",
+      "Assets": [
+        {
+          "PathID": -6552385809533448187,
+          "Name": "w_mach_negev_dropped_w_mach_negev",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -6022988856981217517,
+          "Name": "mach_negev_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4839145009478385915,
+          "Name": "mach_negev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-9c717a35076cae780c47222fea3718d0",
+      "Assets": [
+        {
+          "PathID": -7245533701368262063,
+          "Name": "p250",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -86109315786812153,
+          "Name": "p250_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 247367417376741794,
+          "Name": "w_pist_p250",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-214d78d2a04cde100223235e1db12481",
+      "Assets": [
+        {
+          "PathID": -8904830065854942383,
+          "Name": "pist_deagle_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2511120879283957926,
+          "Name": "w_pist_deagle_dropped_w_pist_deagle",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1149265248778885448,
+          "Name": "pist_deagle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-f13cf5c680387db1da85fd9c7913160f",
+      "Assets": [
+        {
+          "PathID": -7087468871425679872,
+          "Name": "pist_223_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4411045636979855442,
+          "Name": "w_pist_223_silencer",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1873439891428862193,
+          "Name": "w_pist_223",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4747373125381532941,
+          "Name": "pist_223",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-c6e65500bf83fc2fbf17d666ec0d5d13",
+      "Assets": [
+        {
+          "PathID": -9007300174599906187,
+          "Name": "smg_p90_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1218574904077302184,
+          "Name": "smg_p90",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 123446615353440393,
+          "Name": "w_smg_p90",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-008decc2728231893a588b23291b890c",
+      "Assets": [
+        {
+          "PathID": -8067924341552107033,
+          "Name": "m4a1_silencer_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7252797257626933064,
+          "Name": "m4a1_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6715176704772292105,
+          "Name": "rif_m4a1_s",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5163282096566010874,
+          "Name": "m4a1_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4868018838945396449,
+          "Name": "m4a1_silencer_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4205994198352130204,
+          "Name": "w_rif_m4a1_s_silencer",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2113385724631177351,
+          "Name": "m4a1_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -724935283777813596,
+          "Name": "m4a1_silencer_screw_off_end",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1992794246430530209,
+          "Name": "m4a1_silencer_screw_2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2247362747397229301,
+          "Name": "rif_m4a1_s_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4934966630294549935,
+          "Name": "w_rif_m4a1_s",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5403423029846322733,
+          "Name": "m4a1_silencer_screw_1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6199391429028149592,
+          "Name": "m4a1_silencer_screw_3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7463240255051930860,
+          "Name": "m4a1_silencer_screw_4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7597068899155752223,
+          "Name": "m4a1_silencer_screw_5",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7893699150649905215,
+          "Name": "m4a1_silencer_screw_on_start",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8686311065976226045,
+          "Name": "m4a1_cliphit",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-7c2da3d5e518460266c1733d6404d8c3",
+      "Assets": [
+        {
+          "PathID": -5565589280130538660,
+          "Name": "shot_xm1014_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4042482134546018378,
+          "Name": "w_shot_xm1014_dropped_w_shot_xm1014",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5609594149361722603,
+          "Name": "shot_xm1014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7339090658664371308,
+          "Name": "dev_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-ff189f75415976887a7bb1d1463eb998",
+      "Assets": [
+        {
+          "PathID": -8029769932067935606,
+          "Name": "hkp2000_sliderelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2725221371263340142,
+          "Name": "hkp2000_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2533008178734452391,
+          "Name": "hkp2000_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2428477514120198565,
+          "Name": "hkp2000_slideback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 420500337399333458,
+          "Name": "pist_hkp2000",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4470247826252154168,
+          "Name": "hkp2000_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8654725574141165169,
+          "Name": "pist_hkp2000_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9083863737584398243,
+          "Name": "w_pist_hkp2000",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-bbc9800d44bb8e56922400196791c1bd",
+      "Assets": [
+        {
+          "PathID": -639542330686872584,
+          "Name": "rif_m4a1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 165837478465021416,
+          "Name": "w_rif_m4a1",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-c99d9c2a99f0cb2983dcc9f78b4f3e76",
+      "Assets": [
+        {
+          "PathID": -3867737851810239069,
+          "Name": "w_mach_m249_dropped_w_mach_m249",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4694018437471915144,
+          "Name": "m249_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6684955888084856884,
+          "Name": "m249",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-990c41a30b48844ed105cacc9e42f57a",
+      "Assets": [
+        {
+          "PathID": -9033261252216824328,
+          "Name": "awp_cliphit",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4603443982508229224,
+          "Name": "awp_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2385563108400602520,
+          "Name": "w_snip_awp",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1004742796736424793,
+          "Name": "awp_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1109842253802559563,
+          "Name": "awp_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4905244295716742977,
+          "Name": "awp_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7213195905619414901,
+          "Name": "awp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8533467728027678800,
+          "Name": "awp_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 9129854358192635108,
+          "Name": "xm1014_draw",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-c7eb225edf5c7d424d6537ddb7301dff",
+      "Assets": [
+        {
+          "PathID": -9181288316083995588,
+          "Name": "g3sg1_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6782985263047021111,
+          "Name": "g3sg1_slideback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6492726870596348488,
+          "Name": "snip_g3sg1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4404147293121124270,
+          "Name": "snip_g3sg1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 77200709154057431,
+          "Name": "g3sg1_slideforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1356809684850559323,
+          "Name": "w_snip_g3sg1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3842575365505642474,
+          "Name": "g3sg1_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6622756146243340191,
+          "Name": "g3sg1_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-fd93e74af47bd14046b5ec4905237076",
+      "Assets": [
+        {
+          "PathID": -9140582116761758642,
+          "Name": "elite_rightclipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7639794234369628774,
+          "Name": "elite_sliderelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6255501021741086888,
+          "Name": "elite_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4585407254003519212,
+          "Name": "elite_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2808302342554986859,
+          "Name": "m9a1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1312346123621483322,
+          "Name": "elite_taunt_tap",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1516064376530553911,
+          "Name": "m9a1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2329325878423482887,
+          "Name": "w_pist_elite",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7649811429288950438,
+          "Name": "elite_leftclipin",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-f71e78976abcb6d4957b2b3ce4da400d",
+      "Assets": [
+        {
+          "PathID": -5981918372159339650,
+          "Name": "smg_mp5sd_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5729092117560256446,
+          "Name": "w_smg_mp5sd_dropped_w_smg_mp5sd",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8373105804299216121,
+          "Name": "smg_mp5sd",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-98e26240cbb43bd24c5a5e3d0407ae6e",
+      "Assets": [
+        {
+          "PathID": -3076892641098991829,
+          "Name": "bizon",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3070475427669161533,
+          "Name": "bizon_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2001808673016463550,
+          "Name": "w_smg_bizon",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-fc5d27b8d9d713e72a25ec963e21567b",
+      "Assets": [
+        {
+          "PathID": 255651183524626156,
+          "Name": "w_smg_mp9_dropped_w_smg_mp9",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1010494065903191257,
+          "Name": "smg_mp9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6109277143961985916,
+          "Name": "smg_mp9_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-12287949bcb546916b206a6aef651af7",
+      "Assets": [
+        {
+          "PathID": -2760972352234773304,
+          "Name": "ak47",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2612623494990909443,
+          "Name": "w_rif_ak47_dropped_w_rif_ak47",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7925946720981825172,
+          "Name": "ak47_exponent",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5fa7a315df74931c2abd397356a6aaf7",
+      "Assets": [
+        {
+          "PathID": -6492726870596348488,
+          "Name": "snip_g3sg1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4404147293121124270,
+          "Name": "snip_g3sg1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -206336899301435705,
+          "Name": "w_snip_g3sg1_dropped_w_snip_g3sg1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-de78c5c6d89f4b792e70c56993bdded4",
+      "Assets": [
+        {
+          "PathID": -8128102940764459741,
+          "Name": "galil_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2659589323194547188,
+          "Name": "galil_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1105109200281116729,
+          "Name": "galil_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -634900062691953789,
+          "Name": "rif_galilar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -581147321738840651,
+          "Name": "w_rif_galilar",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 519006617558449050,
+          "Name": "rif_galilar_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3593704751829954693,
+          "Name": "galil_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4770527135967805686,
+          "Name": "galil_boltforward",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-4b79c9be296bc0c20f4d7bb4498f2157",
+      "Assets": [
+        {
+          "PathID": -7874237308863653517,
+          "Name": "shot_nova_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3601051343937055423,
+          "Name": "nova_insertshell_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -544256373597397263,
+          "Name": "shell_shotgun",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 219980904727868731,
+          "Name": "nova_pump",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4748792792544404081,
+          "Name": "BankEntry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6091759404379834993,
+          "Name": "nova_insertshell_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6295527897220253299,
+          "Name": "shot_nova",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6913100185364930780,
+          "Name": "nova_insertshell_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8024177889799068782,
+          "Name": "w_shot_nova",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8286657774951989668,
+          "Name": "nova_insertshell_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 9129854358192635108,
+          "Name": "xm1014_draw",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-1a1eb8c2ecdc5499a96a7befbda437b5",
+      "Assets": [
+        {
+          "PathID": -7161051191404035103,
+          "Name": "fiveseven_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4896161066900003433,
+          "Name": "w_pist_fiveseven_dropped_w_pist_fiveseven",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6142710525521957971,
+          "Name": "fiveseven",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-785d6dc1a1de96cbcb9dce4671af2d43",
+      "Assets": [
+        {
+          "PathID": -3877298802640443439,
+          "Name": "pist_glock18",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1659887489536752034,
+          "Name": "w_pist_glock18_dropped_w_pist_glock18",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-fce1aaae92bb2d693feb505bb2818023",
+      "Assets": [
+        {
+          "PathID": -6328572634342773356,
+          "Name": "bizon_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4964276769915908459,
+          "Name": "bizon_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3076892641098991829,
+          "Name": "bizon",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3070475427669161533,
+          "Name": "bizon_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2945822260781756307,
+          "Name": "bizon_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2001808673016463550,
+          "Name": "w_smg_bizon",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8165999688203050391,
+          "Name": "bizon_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8199854061222864898,
+          "Name": "bizon_draw",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-b0ae21de3fb4cb33964056e065990d00",
+      "Assets": [
+        {
+          "PathID": -7660905175629591759,
+          "Name": "mag7_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6279026933113955653,
+          "Name": "shot_mag7_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5213341196599365282,
+          "Name": "mag7_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2624644195922507721,
+          "Name": "w_shot_mag7",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2124678285506712849,
+          "Name": "shot_mag7",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -67799639297588477,
+          "Name": "mag7_pump_forward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1287228070804663921,
+          "Name": "mag7_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7878883052042615143,
+          "Name": "mag7_pump_back",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-9e110ab479093bd57859fbdad01fe6b5",
+      "Assets": [
+        {
+          "PathID": -2808302342554986859,
+          "Name": "m9a1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1516064376530553911,
+          "Name": "m9a1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2329325878423482887,
+          "Name": "w_pist_elite",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5c52e48b3cd3165468acd3b046254e85",
+      "Assets": [
+        {
+          "PathID": -4089093890201793673,
+          "Name": "w_rif_m4a1_dropped_w_rif_m4a1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -639542330686872584,
+          "Name": "rif_m4a1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-3b3affdb92d4f11a009c6a03e90d6794",
+      "Assets": [
+        {
+          "PathID": -6492726870596348488,
+          "Name": "snip_g3sg1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4404147293121124270,
+          "Name": "snip_g3sg1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1356809684850559323,
+          "Name": "w_snip_g3sg1",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-2115270c703396c6d93b8b22d0837782",
+      "Assets": [
+        {
+          "PathID": -7755827081054648555,
+          "Name": "w_smg_mp7",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -3222295021198233536,
+          "Name": "smg_mp7",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-49e826fc7a855a722fc922e633d41d4b",
+      "Assets": [
+        {
+          "PathID": -8029769932067935606,
+          "Name": "hkp2000_sliderelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7087468871425679872,
+          "Name": "pist_223_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4411045636979855442,
+          "Name": "w_pist_223_silencer",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -3510756837530172582,
+          "Name": "usp_silencer_screw4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2725221371263340142,
+          "Name": "hkp2000_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2533008178734452391,
+          "Name": "hkp2000_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2428477514120198565,
+          "Name": "hkp2000_slideback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1831453675125204274,
+          "Name": "usp_silencer_screw_on_start",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1681601107523810007,
+          "Name": "usp_silencer_screw3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1873439891428862193,
+          "Name": "w_pist_223",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4470247826252154168,
+          "Name": "hkp2000_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4569974792735352791,
+          "Name": "usp_silencer_screw5",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4747373125381532941,
+          "Name": "pist_223",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5049253013746524526,
+          "Name": "usp_silencer_screw2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6496652875834454056,
+          "Name": "usp_silencer_screw1",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-927870c5f76e876309e1bdf15ae1545b",
+      "Assets": [
+        {
+          "PathID": -5981918372159339650,
+          "Name": "smg_mp5sd_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3378679279561348558,
+          "Name": "w_smg_mp5sd",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8373105804299216121,
+          "Name": "smg_mp5sd",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-7fd86e3897044c871c7b030eab37b463",
+      "Assets": [
+        {
+          "PathID": -5848855318640972271,
+          "Name": "knife_ct_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5125894693572950636,
+          "Name": "w_knife_default_t",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -3842207096323694595,
+          "Name": "knife_ct",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -480350583907401832,
+          "Name": "knife_t_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1728721660944124961,
+          "Name": "w_knife_default_ct",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8696189462642506845,
+          "Name": "knife_deploy",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8870098442640178893,
+          "Name": "knife_t",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-b9674d8701d2aa99dffb30b2d316cc45",
+      "Assets": [
+        {
+          "PathID": -8586876112764042702,
+          "Name": "xm1014_insertshell_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5891210275152807912,
+          "Name": "xm1014_insertshell_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5565589280130538660,
+          "Name": "shot_xm1014_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1596023232228415957,
+          "Name": "w_shot_xm1014_shells",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -544256373597397263,
+          "Name": "shell_shotgun",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2344386241972618254,
+          "Name": "xm1014_insertshell_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3228197697535566651,
+          "Name": "w_shot_xm1014",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4748792792544404081,
+          "Name": "BankEntry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 5609594149361722603,
+          "Name": "shot_xm1014",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7339090658664371308,
+          "Name": "dev_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9129854358192635108,
+          "Name": "xm1014_draw",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-7fd1aa6af0af5f2c825fa1c49583e9e6",
+      "Assets": [
+        {
+          "PathID": -8308027344908820491,
+          "Name": "mp5_slideback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5981918372159339650,
+          "Name": "smg_mp5sd_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4631438629573407104,
+          "Name": "mp5_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3378679279561348558,
+          "Name": "w_smg_mp5sd",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2192051292506271428,
+          "Name": "mp5_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2548394850970727419,
+          "Name": "mp5_slideforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3844439399528088603,
+          "Name": "mp5_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8373105804299216121,
+          "Name": "smg_mp5sd",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-3de6ed0c1603efbc9d4a01bdf7792c38",
+      "Assets": [
+        {
+          "PathID": -7874237308863653517,
+          "Name": "shot_nova_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6295527897220253299,
+          "Name": "shot_nova",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7479938827893389392,
+          "Name": "w_shot_nova_dropped_w_shot_nova",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-a8a69e61834dc32af98fb0fd20574856",
+      "Assets": [
+        {
+          "PathID": -7359183143065976257,
+          "Name": "mac10_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6616593806746438124,
+          "Name": "mac10_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5988188286962821781,
+          "Name": "mac10_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 274654689788261490,
+          "Name": "smg_mac10_1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 489165962372876375,
+          "Name": "mac10_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2222747546955084006,
+          "Name": "w_smg_mac10",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2412871795901473941,
+          "Name": "mac10_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3271618674588428495,
+          "Name": "smg_mac10_1",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-16dc47d39d586131b9d0e68f37c82322",
+      "Assets": [
+        {
+          "PathID": -1358327967277981152,
+          "Name": "w_snip_scar20",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1775614277939988850,
+          "Name": "snip_scar20_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2664561539170125284,
+          "Name": "snip_scar20",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-f49ea130a7c28bd3c30c443163fe62fa",
+      "Assets": [
+        {
+          "PathID": -8851559255469128068,
+          "Name": "ct_arms_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3249853548335150278,
+          "Name": "ct_arms_idf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1782575214504846765,
+          "Name": "ct_base_glove_color",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1750500063158541650,
+          "Name": "ct_base_glove_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4154937745651800277,
+          "Name": "ct_arms",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6857482453259584803,
+          "Name": "ct_base_glove_exp",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-d4adb5960a6b8bc25b27694ec8e9568d",
+      "Assets": [
+        {
+          "PathID": -7513482639404793022,
+          "Name": "rif_famas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1226990546357977344,
+          "Name": "w_rif_famas",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3861284077861759691,
+          "Name": "metal_warp",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-1478e7c78be0a1d4cdebb8a1ef08c41b",
+      "Assets": [
+        {
+          "PathID": -634900062691953789,
+          "Name": "rif_galilar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -581147321738840651,
+          "Name": "w_rif_galilar",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 519006617558449050,
+          "Name": "rif_galilar_exponent",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5962cba31d49a1c658159b95ab98920c",
+      "Assets": [
+        {
+          "PathID": -7171937853211732437,
+          "Name": "rif_aug",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -6544704585713272066,
+          "Name": "Cylinder_Scope_Edit",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -4795415149261307557,
+          "Name": "aug_boltpull",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1680633785528956741,
+          "Name": "aug_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -842791357027764187,
+          "Name": "aug_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -373439124352424360,
+          "Name": "rif_aug_scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -72192923329653322,
+          "Name": "aug_cliphit",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1001508847721872918,
+          "Name": "rif_aug_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1889065792279933064,
+          "Name": "rif_aug_scope_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2990399599378695954,
+          "Name": "w_rif_aug",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 5349958163053107785,
+          "Name": "aug_boltrelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6483871505057008893,
+          "Name": "scope_lens_reflect_mask",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9129854358192635108,
+          "Name": "xm1014_draw",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-8e00da674fe39fef65a84be96c390426",
+      "Assets": [
+        {
+          "PathID": -2419566190791962726,
+          "Name": "w_shot_sawedoff",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6704484181588347065,
+          "Name": "shot_sawedoff_01_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6951502592606331250,
+          "Name": "shot_sawedoff_01",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-f286ba334c7cdd6a1c19c7fb158aa684",
+      "Assets": [
+        {
+          "PathID": -5401443081893171305,
+          "Name": "w_pist_elite_dropped_w_pist_elite_left",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2808302342554986859,
+          "Name": "m9a1_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1516064376530553911,
+          "Name": "m9a1",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-fa92991ed8cc0ce0866006674af78cbe",
+      "Assets": [
+        {
+          "PathID": -5257634064113906463,
+          "Name": "w_smg_mp9",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -4701316598229806698,
+          "Name": "mp9_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2698238037713042190,
+          "Name": "mp9_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1249757579160127139,
+          "Name": "mp9_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -90602025392989762,
+          "Name": "mp9_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1010494065903191257,
+          "Name": "smg_mp9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6109277143961985916,
+          "Name": "smg_mp9_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8628491098812341516,
+          "Name": "mp9_boltback",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-0405174fbc94c710e657bd1f1ea24aa3",
+      "Assets": [
+        {
+          "PathID": -9088828442906213542,
+          "Name": "m249_coverup",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8792928364146447759,
+          "Name": "w_mach_m249",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -4248773552856190570,
+          "Name": "m249_chain",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3627929433800124898,
+          "Name": "m249_boxout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2647230542493290856,
+          "Name": "m249_coverdown",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1973729989584289434,
+          "Name": "m249_pump",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1025174940401192816,
+          "Name": "m249_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1081449606529351938,
+          "Name": "m249_boxin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4694018437471915144,
+          "Name": "m249_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6684955888084856884,
+          "Name": "m249",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5a95ad8d9075a654b131fb11c76b7165",
+      "Assets": [
+        {
+          "PathID": -6022988856981217517,
+          "Name": "mach_negev_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5916562143617275305,
+          "Name": "negev_coverdown",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4839145009478385915,
+          "Name": "mach_negev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2695393272827632121,
+          "Name": "w_mach_negev_combine",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2134021610322182405,
+          "Name": "negev_boxin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1973729989584289434,
+          "Name": "m249_pump",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 1292788782129578578,
+          "Name": "negev_chain",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7960915709048993181,
+          "Name": "negev_coverup",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8026281867544662407,
+          "Name": "negev_boxout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8098921123500718297,
+          "Name": "negev_draw",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-d5c1b823bf8c8f73f4ffb69e546bf206",
+      "Assets": [
+        {
+          "PathID": -4338181538025641496,
+          "Name": "w_smg_bizon_dropped_w_smg_bizon",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -3076892641098991829,
+          "Name": "bizon",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3070475427669161533,
+          "Name": "bizon_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-798e2aacb32c8779e3a23d5407c39fa4",
+      "Assets": [
+        {
+          "PathID": -7922728262420833360,
+          "Name": "sawedoff_insertshell_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4639368404896885543,
+          "Name": "sawedoff_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4066501912055867832,
+          "Name": "sawedoff_insertshell_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2419566190791962726,
+          "Name": "w_shot_sawedoff",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2329170838885099354,
+          "Name": "sawedoff_pump",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -544256373597397263,
+          "Name": "shell_shotgun",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4066306466892957689,
+          "Name": "sawedoff_insertshell_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4748792792544404081,
+          "Name": "BankEntry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 6704484181588347065,
+          "Name": "shot_sawedoff_01_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6951502592606331250,
+          "Name": "shot_sawedoff_01",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-17d5058cc10535d37751071acc9982a2",
+      "Assets": [
+        {
+          "PathID": -6715176704772292105,
+          "Name": "rif_m4a1_s",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3779405833264554560,
+          "Name": "w_rif_m4a1_s_dropped_w_rif_m4a1_s_silencer",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 830464208763629713,
+          "Name": "w_rif_m4a1_s_dropped_w_rif_m4a1_s",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2247362747397229301,
+          "Name": "rif_m4a1_s_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-6a2bf61b9e9a31e7b4eb8e3fa70fe488",
+      "Assets": [
+        {
+          "PathID": -6715176704772292105,
+          "Name": "rif_m4a1_s",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4205994198352130204,
+          "Name": "w_rif_m4a1_s_silencer",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 2247362747397229301,
+          "Name": "rif_m4a1_s_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4934966630294549935,
+          "Name": "w_rif_m4a1_s",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-9b2e4c729ccbf296ce21e5fee00ef779",
+      "Assets": [
+        {
+          "PathID": -6685226368510419792,
+          "Name": "w_eq_fraggrenade_combine",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8023170167289041171,
+          "Name": "m67_grenade_01",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-a5dbfe3a998088da08ae4555a3a214fb",
+      "Assets": [
+        {
+          "PathID": -9007300174599906187,
+          "Name": "smg_p90_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2820215870043756524,
+          "Name": "w_smg_p90_dropped_w_smg_p90",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1218574904077302184,
+          "Name": "smg_p90",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-ec632973d50595788473169b5e60dace",
+      "Assets": [
+        {
+          "PathID": -3222295021198233536,
+          "Name": "smg_mp7",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3975425837720427287,
+          "Name": "w_smg_mp7_dropped_w_smg_mp7",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-8ae8b641b9117c95621099b5df9902d6",
+      "Assets": [
+        {
+          "PathID": -8758258242995325501,
+          "Name": "ssg08_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8153006447829819243,
+          "Name": "ssg08_cliphit",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6697519735178689896,
+          "Name": "ssg08_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5161610922705754086,
+          "Name": "ssg08_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3935528410423125991,
+          "Name": "w_snip_ssg08",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -2775045654789051478,
+          "Name": "ssg08_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -871702402673979614,
+          "Name": "ssg08_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2298921954895814949,
+          "Name": "snip_ssg08_scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5333778785125323122,
+          "Name": "snip_ssg08_scope_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6375950099475438289,
+          "Name": "snip_ssg08",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-7765ca36c43acb8623714cc3eec315fe",
+      "Assets": [
+        {
+          "PathID": -8904830065854942383,
+          "Name": "pist_deagle_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -7471173680878940182,
+          "Name": "w_pist_deagle",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1149265248778885448,
+          "Name": "pist_deagle",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-f263a81deeec4076434857c4f1246eb6",
+      "Assets": [
+        {
+          "PathID": -4001289311356163818,
+          "Name": "c4_switch",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4308526699658010216,
+          "Name": "c4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 8247084198136688125,
+          "Name": "w_ied_dropped_w_eq_c4",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-ccf5a646a7ec5a7c1798a830833c1a41",
+      "Assets": [
+        {
+          "PathID": 420500337399333458,
+          "Name": "pist_hkp2000",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8654725574141165169,
+          "Name": "pist_hkp2000_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9083863737584398243,
+          "Name": "w_pist_hkp2000",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-d1bd6dbaa7d96dee6fe67bcefa7b8256",
+      "Assets": [
+        {
+          "PathID": -7513482639404793022,
+          "Name": "rif_famas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 370764111803757662,
+          "Name": "w_rif_famas_dropped_w_rif_famas",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 3861284077861759691,
+          "Name": "metal_warp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-fe5ad87e54c7eb49af4e3fb5f5d04ee1",
+      "Assets": [
+        {
+          "PathID": -1004742796736424793,
+          "Name": "awp_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4490066301644172523,
+          "Name": "w_snip_awp_dropped_w_snip_awp",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7213195905619414901,
+          "Name": "awp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-baa0de32d982323f78dc475e39e2e528",
+      "Assets": [
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1343181958409767429,
+          "Name": "w_snip_scar20_dropped_w_snip_scar20",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1775614277939988850,
+          "Name": "snip_scar20_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2664561539170125284,
+          "Name": "snip_scar20",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-4a70345f1386a51c081bcc56d2e6baf8",
+      "Assets": [
+        {
+          "PathID": -2050477256576508758,
+          "Name": "w_pist_tec9_dropped_w_pist_tec9",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1180197585198129109,
+          "Name": "pist_tec9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2959277634108955662,
+          "Name": "pist_tec9_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-3585c428657e43bd8649d62e5a664a4e",
+      "Assets": [
+        {
+          "PathID": -3935528410423125991,
+          "Name": "w_snip_ssg08",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 946694828155598825,
+          "Name": "scope_exp",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2298921954895814949,
+          "Name": "snip_ssg08_scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4708328040079037193,
+          "Name": "scope",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5333778785125323122,
+          "Name": "snip_ssg08_scope_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6375950099475438289,
+          "Name": "snip_ssg08",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7718407930863614775,
+          "Name": "scope_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-d80c7486d640a53203030ec21be46097",
+      "Assets": [
+        {
+          "PathID": -7951630947732144841,
+          "Name": "famas_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7513482639404793022,
+          "Name": "rif_famas",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3399854226616965274,
+          "Name": "famas_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1749700076281836588,
+          "Name": "famas_cliphit",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1226990546357977344,
+          "Name": "w_rif_famas",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1350078479320423155,
+          "Name": "famas_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2149561783663333333,
+          "Name": "famas_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2381305155635984182,
+          "Name": "famas_boltforward",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3861284077861759691,
+          "Name": "metal_warp",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-d5f469cb7177f76d4557caad8666af9b",
+      "Assets": [
+        {
+          "PathID": -2760972352234773304,
+          "Name": "ak47",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5520256710134816235,
+          "Name": "w_rif_ak47",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 7925946720981825172,
+          "Name": "ak47_exponent",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-da402fc878cc73d6b798155737eca71f",
+      "Assets": [
+        {
+          "PathID": -6022988856981217517,
+          "Name": "mach_negev_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4839145009478385915,
+          "Name": "mach_negev",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2695393272827632121,
+          "Name": "w_mach_negev_combine",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-0a2c8d4109ce0bdf9803da65ad429e0f",
+      "Assets": [
+        {
+          "PathID": -7696541952752909131,
+          "Name": "pinpull_start",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2693951276679544429,
+          "Name": "m84_flashbang_grenade_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1579795000208869205,
+          "Name": "pinpull",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -694116103194295622,
+          "Name": "he_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 513209592508123243,
+          "Name": "m84_flashbang_grenade",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6397674296364991510,
+          "Name": "w_eq_flashbang",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-c59762fb9c7f22f2901a6025e2c7be56",
+      "Assets": [
+        {
+          "PathID": -7245533701368262063,
+          "Name": "p250",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -86109315786812153,
+          "Name": "p250_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4710205803098985264,
+          "Name": "w_pist_p250_dropped_w_pist_p250",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        }
+      ]
+    },
+    {
+      "Name": "cab-2502f259a28e9272baef524382ccb571",
+      "Assets": [
+        {
+          "PathID": -9138318116808903160,
+          "Name": "c4_initiate",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8475394977598967847,
+          "Name": "key_press1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8349469300303859328,
+          "Name": "c4_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8164489442255512187,
+          "Name": "key_press2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7224807292087792784,
+          "Name": "key_press7",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4001289311356163818,
+          "Name": "c4_switch",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 3384560387113179425,
+          "Name": "key_press3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3611727433188630547,
+          "Name": "key_press6",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4308526699658010216,
+          "Name": "c4",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4748792792544404081,
+          "Name": "BankEntry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 5121615250817701457,
+          "Name": "key_press4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6517537218482820571,
+          "Name": "key_press5",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6849561041482060690,
+          "Name": "w_ied_w_eq_c4",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-f115ae29442140fff1e2255f0dc57a93",
+      "Assets": [
+        {
+          "PathID": -6970972593658241606,
+          "Name": "glock_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4495063131494124215,
+          "Name": "glock_sliderelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3877298802640443439,
+          "Name": "pist_glock18",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -293772635243397694,
+          "Name": "glock_slideback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 4470247826252154168,
+          "Name": "hkp2000_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5209741747530149209,
+          "Name": "w_pist_glock18",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6120576256462094503,
+          "Name": "glock_clipin",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-2a8a29fa2dfb21841f1e328b71ce2164",
+      "Assets": [
+        {
+          "PathID": -5728013527273642193,
+          "Name": "tec9_boltrelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4924145452704347805,
+          "Name": "tec9_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4432035689658443223,
+          "Name": "w_pist_tec9",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -1180197585198129109,
+          "Name": "pist_tec9",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1664344988664551250,
+          "Name": "tec9_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2959277634108955662,
+          "Name": "pist_tec9_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4292234929845252098,
+          "Name": "tec9_boltpull",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5770420087138686627,
+          "Name": "tec9_draw",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-e0da2880728a37ec3c6590ba318f1ee7",
+      "Assets": [
+        {
+          "PathID": -9007300174599906187,
+          "Name": "smg_p90_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -8626620593412702884,
+          "Name": "p90_cliphit",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6499249847806619415,
+          "Name": "p90_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1218574904077302184,
+          "Name": "smg_p90",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -332899086124476413,
+          "Name": "movement1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 123446615353440393,
+          "Name": "w_smg_p90",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 258295188927485358,
+          "Name": "AnimationEvents",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 478492262524181738,
+          "Name": "movement2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1585481930418914139,
+          "Name": "movement3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4551551472909582602,
+          "Name": "p90_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6087397665202519957,
+          "Name": "p90_draw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6664256590873907078,
+          "Name": "p90_cliprelease",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7230457090595664624,
+          "Name": "p90_boltback",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8348626864860416298,
+          "Name": "p90_boltforward",
+          "Type": "AudioClip"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5e0207cfbc6c70b1db6694b154d64de3",
+      "Assets": [
+        {
+          "PathID": -634900062691953789,
+          "Name": "rif_galilar",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 519006617558449050,
+          "Name": "rif_galilar_exponent",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6353684971882552275,
+          "Name": "WorldModel",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 9176648598594855515,
+          "Name": "w_rif_galilar_dropped_w_rif_galilar",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-6f3c6e21636e10691ebcb084818dc508",
+      "Assets": [
+        {
+          "PathID": -1921856615950721517,
+          "Name": "Default-Particle",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-ae32c10c8dfd790782eae50d76948dbe",
+      "Assets": [
+        {
+          "PathID": -6197792122954825079,
+          "Name": "57_reference",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-4b4c4f8efc1e7dc859c6e2406a9549f9",
+      "Assets": [
+        {
+          "PathID": -8648318023496520158,
+          "Name": "556_reference",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-36b8daccd83634ec52a028862e5808ba",
+      "Assets": [
+        {
+          "PathID": 7173120800398491953,
+          "Name": "338mag_reference",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-8a950367e3f729526be17a3f3e319d49",
+      "Assets": [
+        {
+          "PathID": -2370881591367468241,
+          "Name": "TinyStonesParticleSheet",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8706735596467722611,
+          "Name": "DustPuffSmallParticleSheet",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-06c27b22f1f304e0defe00b12e7760e6",
+      "Assets": [
+        {
+          "PathID": -1921856615950721517,
+          "Name": "Default-Particle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1477392624459676217,
+          "Name": "SmokePuff02ParticleSheet",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7156432235475779849,
+          "Name": "FlameRoundParticleSheet",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-bdcdf52119a3757f42a81077e238735f",
+      "Assets": [
+        {
+          "PathID": -2781363865902340454,
+          "Name": "12gauge_reference",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -544256373597397263,
+          "Name": "shell_shotgun",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5879912fa489c01465a404bf3d9d4eff",
+      "Assets": [
+        {
+          "PathID": 5721402145992598172,
+          "Name": "762nato_reference",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-ac7aaaf8c8c5aa27ef3d4d2de9bbef05",
+      "Assets": [
+        {
+          "PathID": -1921856615950721517,
+          "Name": "Default-Particle",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1477392624459676217,
+          "Name": "SmokePuff02ParticleSheet",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7078888004093836487,
+          "Name": "FlameParticleSheet",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7156432235475779849,
+          "Name": "FlameRoundParticleSheet",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-65e105c209d2a1ce5d770db75d1a3b65",
+      "Assets": [
+        {
+          "PathID": -2639759533336424896,
+          "Name": "SmokePuff02ParticleSheet2",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2141615912379948022,
+          "Name": "FlashParticle",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-ba1853eb0e33e6607ff946a744de4d7c",
+      "Assets": [
+        {
+          "PathID": -8165300871934192875,
+          "Name": "9mm_reference",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-7d8b31a4828d59b6f7658691743515f7",
+      "Assets": [
+        {
+          "PathID": 7693892203382677320,
+          "Name": "bloodRoundSplatter3",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-e6dbc171ef45737b8507a4f58b8cf347",
+      "Assets": [
+        {
+          "PathID": -6910740234019599210,
+          "Name": "mouth",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3949358296713531681,
+          "Name": "art_facemap",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2102004179451560166,
+          "Name": "Hostage_01_reference001",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 1102797836297546400,
+          "Name": "hostage_sheet",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6988794902837084405,
+          "Name": "coach_eyes_ext",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-dd91689dd52af8888bfe2fcace7f7b7a",
+      "Assets": [
+        {
+          "PathID": -7439676435368321264,
+          "Name": "imp",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 528429241012187503,
+          "Name": "imp_d",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 893019778413563511,
+          "Name": "imp_bmp",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-9e2ef740eba0f072f288df7a6b9f6020",
+      "Assets": [
+        {
+          "PathID": -2245380466803429001,
+          "Name": "fatty_h",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 3256327654795824260,
+          "Name": "zfat",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 8891027798703370173,
+          "Name": "fatty_d",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-13e37f3b6ea553edb2c6cce7d9f92886",
+      "Assets": [
+        {
+          "PathID": -7944309897069739168,
+          "Name": "ctm_idf_upperbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5806879101147233940,
+          "Name": "ctm_idf_upperbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3901309110751543461,
+          "Name": "ctm_idf_lowerbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2143899998420688211,
+          "Name": "ctm_idf_lowerbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2060600502569020601,
+          "Name": "ctm_idf_head_variantd_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -164295437990596856,
+          "Name": "ctm_idf_variantD",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 4255509888644616015,
+          "Name": "ctm_idf_head_variantd",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-53a56e965fffbe0295822769175d126c",
+      "Assets": [
+        {
+          "PathID": -8438201679980703491,
+          "Name": "tm_leet_variantA",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -8179522159574455721,
+          "Name": "tm_leet_upperbody_varianta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -4576883397652168359,
+          "Name": "tm_elite_head_varianta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1125309229228750228,
+          "Name": "tm_leet_lowerbody_varianta_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1847157230277516107,
+          "Name": "tm_leet_upperbody_varianta_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5216264984678634621,
+          "Name": "tm_elite_head_varianta_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7833972533822921162,
+          "Name": "tm_leet_lowerbody_varianta",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-5ff8a2c42717a968a6dcc8a27f568352",
+      "Assets": [
+        {
+          "PathID": -7944309897069739168,
+          "Name": "ctm_idf_upperbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -7259049093874436633,
+          "Name": "ctm_idf_head_variantb_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -6946053147794005506,
+          "Name": "ctm_idf_head_variantb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5806879101147233940,
+          "Name": "ctm_idf_upperbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3901309110751543461,
+          "Name": "ctm_idf_lowerbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2143899998420688211,
+          "Name": "ctm_idf_lowerbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -962353155994035232,
+          "Name": "ctm_idf_variantB",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-548895be9aa2c2583b45e9b1ff212b99",
+      "Assets": [
+        {
+          "PathID": -7843241584378327649,
+          "Name": "tm_elite_head_variantc_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -6168072811646704921,
+          "Name": "tm_elite_head_variantc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2513817610748647674,
+          "Name": "tm_leet_upperbody_variantc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2149366195255261114,
+          "Name": "tm_leet_lowerbody_variantc",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2889076113008710891,
+          "Name": "tm_leet_lowerbody_variantc_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5060477225520434257,
+          "Name": "tm_leet_upperbody_variantc_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 9103645633867590638,
+          "Name": "tm_leet_variantC",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-ca5312e57d0ee9e42a92c6370b762f38",
+      "Assets": [
+        {
+          "PathID": -7944309897069739168,
+          "Name": "ctm_idf_upperbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5806879101147233940,
+          "Name": "ctm_idf_upperbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3901309110751543461,
+          "Name": "ctm_idf_lowerbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2143899998420688211,
+          "Name": "ctm_idf_lowerbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1570322766080982061,
+          "Name": "ctm_idf_head_variantf_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4297880225940701393,
+          "Name": "ctm_idf_variantF",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6504943522093703507,
+          "Name": "ctm_idf_head_variantf",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-cf4c0dfa15873e02527e83e45da529b2",
+      "Assets": [
+        {
+          "PathID": -9138277316669647961,
+          "Name": "tm_leet_variantE",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -3207338323939816870,
+          "Name": "tm_leet_upperbody_variante_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1375058851444471620,
+          "Name": "tm_leet_lowerbody_variante_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1018266747868443077,
+          "Name": "tm_leet_upperbody_variante",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 905378483624827335,
+          "Name": "tm_elite_head_variante_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 1884292638327469364,
+          "Name": "tm_elite_head_variante",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6911087709348112490,
+          "Name": "tm_leet_lowerbody_variante",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-76fdf8ffad9153a6d8271eaa63af79da",
+      "Assets": [
+        {
+          "PathID": -8221889676700056368,
+          "Name": "tm_leet_variantD",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -7274946150883271556,
+          "Name": "tm_elite_head_variantd_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2630096770077894180,
+          "Name": "tm_leet_upperbody_variantd",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2167724001092693328,
+          "Name": "tm_leet_lowerbody_variantd_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -1908087610357443976,
+          "Name": "tm_elite_head_variantd",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -923324923458417637,
+          "Name": "tm_elite_head_variantf",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 197045692769921942,
+          "Name": "tm_leet_upperbody_variantd_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4081565057394414740,
+          "Name": "tm_leet_head",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8872567776388859503,
+          "Name": "tm_leet_lowerbody_variantd",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8921736893265096282,
+          "Name": "tm_leet_head_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-62d8a87648895b7f66a15303135d89d8",
+      "Assets": [
+        {
+          "PathID": -8780281778636838512,
+          "Name": "ctm_idf_variantE",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": -7944309897069739168,
+          "Name": "ctm_idf_upperbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5806879101147233940,
+          "Name": "ctm_idf_upperbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3901309110751543461,
+          "Name": "ctm_idf_lowerbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2143899998420688211,
+          "Name": "ctm_idf_lowerbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -569057738821047081,
+          "Name": "ctm_idf_head_variante",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 7111122085800638495,
+          "Name": "ctm_idf_head_variante_normal",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-ab1fc1e8c4a14fbe0c036987e9046cb2",
+      "Assets": [
+        {
+          "PathID": -7944309897069739168,
+          "Name": "ctm_idf_upperbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5806879101147233940,
+          "Name": "ctm_idf_upperbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3901309110751543461,
+          "Name": "ctm_idf_lowerbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2143899998420688211,
+          "Name": "ctm_idf_lowerbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6250125876170534002,
+          "Name": "ctm_idf_head_varianta_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8318159405959854046,
+          "Name": "ctm_idf_head_varianta",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8836934096955369596,
+          "Name": "ctm_idf",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-f457e647d722466218fcaf1d57db71b9",
+      "Assets": [
+        {
+          "PathID": -2636534398737213717,
+          "Name": "tm_leet_lowerbody_variantb_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6809661861807885,
+          "Name": "tm_leet_upperbody_variantb_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 2901949097149613952,
+          "Name": "tm_leet_upperbody_variantb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 4956298785090231344,
+          "Name": "tm_leet_lowerbody_variantb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5821368411799670937,
+          "Name": "tm_elite_head_variantb_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5906111835128466072,
+          "Name": "tm_elite_head_variantb",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 8288289838737452287,
+          "Name": "tm_leet_variantB",
+          "Type": "Mesh"
+        }
+      ]
+    },
+    {
+      "Name": "cab-c2876367b2e1ca311e469d0f00943d8b",
+      "Assets": [
+        {
+          "PathID": -7944309897069739168,
+          "Name": "ctm_idf_upperbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -5806879101147233940,
+          "Name": "ctm_idf_upperbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -3901309110751543461,
+          "Name": "ctm_idf_lowerbody",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": -2143899998420688211,
+          "Name": "ctm_idf_lowerbody_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 5922896443704660032,
+          "Name": "ctm_idf_variantC",
+          "Type": "Mesh"
+        },
+        {
+          "PathID": 6495041097960691895,
+          "Name": "ctm_idf_head_variantc_normal",
+          "Type": "Texture2D"
+        },
+        {
+          "PathID": 6550658412687229692,
+          "Name": "ctm_idf_head_variantc",
+          "Type": "Texture2D"
+        }
+      ]
+    },
+    {
+      "Name": "cab-535b99a00d23830582720fead9c2a742",
+      "Assets": [
+        {
+          "PathID": -9140429515509472139,
+          "Name": "concrete_ct_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -9134686823405158976,
+          "Name": "ssg08_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8887657195007939189,
+          "Name": "concrete_ct_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8776070199484755834,
+          "Name": "!Game-teleportIn.",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8627030717020919283,
+          "Name": "knife_hit_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8598777992390427032,
+          "Name": "terwin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8596683820811891172,
+          "Name": "flashlight1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8345539371306159313,
+          "Name": "mp5_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8278794622377113169,
+          "Name": "concrete_ct_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -8231067544336264622,
+          "Name": "knife_hit_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7930196047865501733,
+          "Name": "negev_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7896552911550815950,
+          "Name": "tec9-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7876330295953566584,
+          "Name": "usp_unsilenced_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7869689173372934362,
+          "Name": "xm1014-1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7735868277034644209,
+          "Name": "hostage-rescued.",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7591055435648558837,
+          "Name": "m4a1_distant_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7525930060870382464,
+          "Name": "g3sg1_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7523201321790191343,
+          "Name": "m4a1_silencer_distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7467337522310051297,
+          "Name": "m4a1_silencer_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7436123707521137834,
+          "Name": "m4a1_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7409270561437662735,
+          "Name": "negev-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7304899807097106616,
+          "Name": "grenade_hit1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7115687207122997740,
+          "Name": "fatty-MeleeSound.",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -7046839008147388311,
+          "Name": "mac10_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6990463113364012189,
+          "Name": "GameSoundsObject",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": -6891395447141767865,
+          "Name": "nova-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6836575162759630227,
+          "Name": "ric4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6813926522340413956,
+          "Name": "mag7_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6799069433565600594,
+          "Name": "explode3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6325786478765690355,
+          "Name": "famas_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6316904527393157115,
+          "Name": "go",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6300892615444304669,
+          "Name": "famas_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6222347625875629307,
+          "Name": "!Game-medkit.",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6174786761609597873,
+          "Name": "sg556_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6172875887215339539,
+          "Name": "bombpl",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -6119275711338325101,
+          "Name": "ump45_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5891655568117507977,
+          "Name": "hkp2000_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5856267203035323335,
+          "Name": "usp_unsilenced_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5840250858199618916,
+          "Name": "pl_respawn",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5561714533730965267,
+          "Name": "concrete_ct_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5028801047955790060,
+          "Name": "c4_plant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -5014883579916721524,
+          "Name": "mp9-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4855464398708717684,
+          "Name": "m4a1_us_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4735671239027264589,
+          "Name": "elites_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4730334105703456493,
+          "Name": "m4a1_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4602262616109646194,
+          "Name": "m4a1_us_distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4576863166277946488,
+          "Name": "elites_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4554033662425338548,
+          "Name": "mac10_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4465432482734634634,
+          "Name": "letshurry",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4436977599134800727,
+          "Name": "com_go",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -4166098201247312505,
+          "Name": "ump45-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3932770833929996425,
+          "Name": "hkp2000_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3915651358760895777,
+          "Name": "galil-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3670976485271862955,
+          "Name": "clipempty_rifle",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3562498743665712893,
+          "Name": "m4a1_us_distant_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3483411520828923363,
+          "Name": "fatty-sighSounds.",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3421021165795024864,
+          "Name": "mp7-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3369596059656188774,
+          "Name": "ak47-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3306370176243794140,
+          "Name": "m249-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3115487319838626685,
+          "Name": "m4a1_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3068045764887416953,
+          "Name": "mp7_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3060982478277216489,
+          "Name": "deagle_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -3016681246546870887,
+          "Name": "m4a1_us_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2938004059971746224,
+          "Name": "negev_05",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2547601868149159775,
+          "Name": "usp_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2515665946031600005,
+          "Name": "negev_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2506185600207122865,
+          "Name": "aug_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2395785027843216376,
+          "Name": "m4a1_us_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2239034632792852772,
+          "Name": "ric5",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2118930256540331636,
+          "Name": "smoke_emit",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2080450292589640676,
+          "Name": "m4a1_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -2007158976721529089,
+          "Name": "illfollow",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1926295834948722202,
+          "Name": "ssg08_distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1773165564801641467,
+          "Name": "knife_stab",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1697459092005086052,
+          "Name": "c4_explode1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1543608246270266012,
+          "Name": "sg556_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1514208546974182689,
+          "Name": "knife_hit4",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1265620758594476586,
+          "Name": "knife_hit3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1243116229453478174,
+          "Name": "ric3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -1170997909537097016,
+          "Name": "g3sg1_distant_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -966377044159328691,
+          "Name": "g3sg1_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -950248748138729564,
+          "Name": "suit_sprint",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -664513402512107307,
+          "Name": "mp9_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -492569882281521827,
+          "Name": "galil_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -482912116107460534,
+          "Name": "tec9_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -436802052478469079,
+          "Name": "g3sg1_distant_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -288095498281713501,
+          "Name": "he_bounce-1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -259212722791414819,
+          "Name": "famas_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -229383930106521404,
+          "Name": "ak47_boltpull",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -206052482084802587,
+          "Name": "knife_hit_05",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": -34979554174375193,
+          "Name": "usp_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 152370390362374755,
+          "Name": "sg556_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 267153344845174338,
+          "Name": "mp9_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 290638927591855200,
+          "Name": "hint",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 308023347970011862,
+          "Name": "bizon_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 765956570809193772,
+          "Name": "scar20_distant_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 769495114934433814,
+          "Name": "m4a1_us_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 833091283055067507,
+          "Name": "scar20_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1075643569716505223,
+          "Name": "zoom",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1084800993349565447,
+          "Name": "death1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1250415255244913748,
+          "Name": "scar20_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1269389015634942975,
+          "Name": "mp9_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1374772267005310503,
+          "Name": "usp1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1425575023945284630,
+          "Name": "sawedoff-1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1499803383969728427,
+          "Name": "knife_hit1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1499873676439263758,
+          "Name": "!Game-teleportOut.",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1510317878856686372,
+          "Name": "nova-1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1761520487892689176,
+          "Name": "damage2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1837817419488983802,
+          "Name": "galil_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1859401953670220506,
+          "Name": "ak47_clipin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1906652813878821802,
+          "Name": "awp_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1947125131650818537,
+          "Name": "letsmove",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 1953520608955637285,
+          "Name": "mac10-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2057978191887069092,
+          "Name": "mp9_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2075240826804252748,
+          "Name": "knife_hit_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2153246973527486856,
+          "Name": "mp7_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2218582326107619977,
+          "Name": "awp_distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2307570130346057627,
+          "Name": "ctwin",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2355636232798403508,
+          "Name": "mp7_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2471860328218534972,
+          "Name": "famas-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2525264574004394364,
+          "Name": "bizon_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2632666003290509169,
+          "Name": "deagle-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2850852438739575743,
+          "Name": "glock_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 2906801341927998156,
+          "Name": "elite-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3079711401426264088,
+          "Name": "hkp2000-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3089691074615168310,
+          "Name": "flesh_impact_bullet1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3229078320423739364,
+          "Name": "sawedoff-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3261864823000794684,
+          "Name": "youlead",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3396645404269556331,
+          "Name": "aug-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3460642157802054203,
+          "Name": "usp_unsilenced_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3529334064318815206,
+          "Name": "g3sg1_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3589498245804687557,
+          "Name": "mac10_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3612741135622988560,
+          "Name": "galil_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 3862938700089721277,
+          "Name": "glock_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4230704958098548844,
+          "Name": "fiveseven_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4244687541223712501,
+          "Name": "!Game-zombieWin.",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4334200758259171085,
+          "Name": "cs_stinger_dominate",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4401417091699046069,
+          "Name": "flashbang_explode1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4601453612754760729,
+          "Name": "getouttahere",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4641576700225897820,
+          "Name": "usp_unsil-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4671759635434098773,
+          "Name": "fiveseven-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4695987447610028187,
+          "Name": "aug_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4748792792544404081,
+          "Name": "BankEntry",
+          "Type": "MonoScript"
+        },
+        {
+          "PathID": 4771063931009647532,
+          "Name": "sprayer",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4835313107981527628,
+          "Name": "headshot2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4903938765933836078,
+          "Name": "p90_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4914388321183346642,
+          "Name": "scar20_distant_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4927327081097271389,
+          "Name": "elites_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4929201708128433062,
+          "Name": "grenade_throw",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 4973850099656121369,
+          "Name": "bombdef",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5062217103259430291,
+          "Name": "headshot1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5103648494781221251,
+          "Name": "damage3",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5317889866784471683,
+          "Name": "letsgo",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5407274068060517158,
+          "Name": "knife_slash2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5428139431651180397,
+          "Name": "m249-1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5574361774063628631,
+          "Name": "awp_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5646181970652062717,
+          "Name": "p90_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5689382258072086159,
+          "Name": "ump45_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5691699138132441415,
+          "Name": "famas_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5698415052380769528,
+          "Name": "galil_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5838575130778310042,
+          "Name": "knife_hit_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 5969458674704381090,
+          "Name": "elites_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6016220145356388999,
+          "Name": "c4_beep2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6316451873122557049,
+          "Name": "difuse",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6350583091097220648,
+          "Name": "usp_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6354835564317007907,
+          "Name": "knife_slash1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6383501274144558392,
+          "Name": "p250-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6508258430397629075,
+          "Name": "mp7_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6685196741575753630,
+          "Name": "ak47_clipout",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6799760695798520853,
+          "Name": "p250_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6858276127757112175,
+          "Name": "m4a1_us_distant_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6882927918341715217,
+          "Name": "deagle_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6944612569751887226,
+          "Name": "mag7-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 6994980014398198983,
+          "Name": "g3sg1_distant_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7152680479196346112,
+          "Name": "ammopickup",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7259088978423656598,
+          "Name": "sg556_distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7437413688870422213,
+          "Name": "knife_hit2",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7473432962730918661,
+          "Name": "hkp2000_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7575972577066863314,
+          "Name": "!Game-JumperSound.",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7801567331862319862,
+          "Name": "okletsgo",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7850507920234309794,
+          "Name": "scar20_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 7936814196143145188,
+          "Name": "letsdoit",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8133510413007160475,
+          "Name": "damage1",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8243264730897321546,
+          "Name": "sg556_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8254000868030892767,
+          "Name": "aug_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8258737378364332366,
+          "Name": "mag7_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8265543223544148297,
+          "Name": "aug_04",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8450682800692989660,
+          "Name": "p90-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8563804355014471256,
+          "Name": "p90_02",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8637832257357226282,
+          "Name": "scar20_distant_03",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8638357807990108136,
+          "Name": "glock18-1-distant",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8638837116136290097,
+          "Name": "ak47_01",
+          "Type": "AudioClip"
+        },
+        {
+          "PathID": 8949206675169253866,
+          "Name": "xm1014-1-distant",
+          "Type": "AudioClip"
+        }
+      ]
+    }
+  ]
+}

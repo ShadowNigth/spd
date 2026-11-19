@@ -1,0 +1,10 @@
+internal interface GCOMJHICFAB
+{
+	void BGADMPCBOHJ(int IDLNFNNFLDN);
+
+	void LKLOHLPDNLN(bool EHAPKEKPMOE);
+
+	int PKKJBIDEMBH();
+
+	void PLLNMOCPMDJ();
+}

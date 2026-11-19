@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fee9981ff0df791386bf7d0320379c, type: 3}
+  m_Name: Damage
+  m_EditorClassIdentifier:
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: bfaea308b078f9940a34c2549f287d37, type: 3}
+  - {fileID: 8300000, guid: 35d1ff6d2eba29040b4c88bfaef7d129, type: 3}
+  - {fileID: 8300000, guid: 1281135238d291148b4181223bf4dc7e, type: 3}

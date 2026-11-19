@@ -1,0 +1,5 @@
+public enum PCINMBIPGLL
+{
+	MIMPHGFOPDK = 0,
+	OKPBELGPLPL = 1
+}

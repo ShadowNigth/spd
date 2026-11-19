@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fee9981ff0df791386bf7d0320379c, type: 3}
+  m_Name: pist_elite
+  m_EditorClassIdentifier:
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: 64f3253a2e858fb419f271e6fa1a5644, type: 3}
+  - {fileID: 8300000, guid: 111d87fc5a80eb84bb9ca51235472ccc, type: 3}
+  - {fileID: 8300000, guid: cbb74152ebd57c24c9439ca9988673eb, type: 3}
+  - {fileID: 8300000, guid: c6ee5d9b8df34c943a0ff43a6cc0e196, type: 3}

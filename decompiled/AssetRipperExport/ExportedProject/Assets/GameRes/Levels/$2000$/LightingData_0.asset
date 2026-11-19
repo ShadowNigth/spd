@@ -1,0 +1,506 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1120 &112000000
+LightingDataAsset:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: LightingData
+  m_Scene: {fileID: 102900000, guid: aa34ee48b43c2c74983f331ced27a876, type: 3}
+  m_Lightmaps:
+  - serializedVersion: 2
+    m_Lightmap: {fileID: 2800000, guid: 0eb3fa4e29f4b1f4aa968e076d4baf09, type: 2}
+    m_DirLightmap: {fileID: 0}
+    m_ShadowMask: {fileID: 0}
+  - serializedVersion: 2
+    m_Lightmap: {fileID: 2800000, guid: c883bfa22b06fda40b22d90d77ed951f, type: 2}
+    m_DirLightmap: {fileID: 0}
+    m_ShadowMask: {fileID: 0}
+  m_LightProbes: {fileID: 25800000, guid: 678bcf59a0990aa49a67efdbf4bdaab5, type: 2}
+  m_LightmapsMode: 0
+  m_BakedAmbientProbeInLinear:
+    sh[ 0]: 0.20758267
+    sh[ 1]: -0.04019554
+    sh[ 2]: -0.03633922
+    sh[ 3]: -0.006897435
+    sh[ 4]: -0.0069830352
+    sh[ 5]: -0.034241512
+    sh[ 6]: 0.0017226944
+    sh[ 7]: 0.0012311055
+    sh[ 8]: -0.0051024808
+    sh[ 9]: 0.31452137
+    sh[10]: -0.046180297
+    sh[11]: -0.043804727
+    sh[12]: -0.007199019
+    sh[13]: -0.0076401937
+    sh[14]: -0.04103872
+    sh[15]: 0.0024080612
+    sh[16]: 0.0011126101
+    sh[17]: -0.0026349789
+    sh[18]: 0.32851648
+    sh[19]: -0.044285245
+    sh[20]: -0.040890545
+    sh[21]: -0.005698005
+    sh[22]: -0.006473989
+    sh[23]: -0.03782264
+    sh[24]: -6.469712E-05
+    sh[25]: -7.8479294E-05
+    sh[26]: -0.0066368002
+  m_LightmappedRendererData:
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 1
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.49122483, y: 0.49122483, z: 0.47997648, w: -0.00830477}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 1
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.48850733, y: 0.48850733, z: 0, w: 0}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.17867722, y: 0.17867722, z: 0.55361986, w: 0.12406096}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.18172486, y: 0.18172486, z: 0.7586465, w: 0.000833964}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.32900658, y: 0.32900658, z: -0.0055622677, w: 0.5508751}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.10102328, y: 0.10102328, z: 0.5549327, w: 0.30115506}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.05451746, y: 0.05451746, z: 0.9404846, w: 0.0029845643}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.022529306, y: 0.022529306, z: 0.73594725, w: 0.003525364}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.022529284, y: 0.022529284, z: 0.73594725, w: 0.036643688}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.5603595, y: 0.5603595, z: 0, w: 0.00390625}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.18172486, y: 0.18172486, z: 0.55356836, w: 0.000833964}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.022529284, y: 0.022529284, z: 0.73594725, w: 0.020384876}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.22412732, y: 0.22412732, z: 0.7252259, w: 0.12329257}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.030148631, y: 0.030148631, z: 0.73581845, w: 0.06903255}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.21806982, y: 0.21806982, z: 0.7253283, w: 0.21785574}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  - uvMesh: {fileID: 4300000, guid: 0bc9f45575a776b4bb84977085e82d40, type: 2}
+    terrainDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    terrainChunkDynamicUVST: {x: 0, y: 0, z: 0, w: 0}
+    lightmapIndex: 0
+    lightmapIndexDynamic: 65535
+    lightmapST: {x: 0.022529306, y: 0.022529306, z: 0.73594725, w: 0.0529025}
+    lightmapSTDynamic: {x: 1, y: 1, z: 0, w: 0}
+  m_LightmappedRendererDataIDs:
+  - targetObject: 492
+    targetPrefab: 0
+  - targetObject: 495
+    targetPrefab: 0
+  - targetObject: 498
+    targetPrefab: 0
+  - targetObject: 499
+    targetPrefab: 0
+  - targetObject: 500
+    targetPrefab: 0
+  - targetObject: 501
+    targetPrefab: 0
+  - targetObject: 502
+    targetPrefab: 0
+  - targetObject: 503
+    targetPrefab: 0
+  - targetObject: 508
+    targetPrefab: 0
+  - targetObject: 509
+    targetPrefab: 0
+  - targetObject: 513
+    targetPrefab: 0
+  - targetObject: 515
+    targetPrefab: 0
+  - targetObject: 517
+    targetPrefab: 0
+  - targetObject: 519
+    targetPrefab: 0
+  - targetObject: 520
+    targetPrefab: 0
+  - targetObject: 526
+    targetPrefab: 0
+  m_EnlightenSceneMapping:
+    m_Renderers: []
+    m_Systems: []
+    m_Probesets: []
+    m_SystemAtlases: []
+    m_TerrainChunks: []
+  m_EnlightenSceneMappingRendererIDs: []
+  m_Lights:
+  - targetObject: 606
+    targetPrefab: 0
+  - targetObject: 607
+    targetPrefab: 0
+  - targetObject: 608
+    targetPrefab: 0
+  - targetObject: 609
+    targetPrefab: 0
+  - targetObject: 610
+    targetPrefab: 0
+  - targetObject: 611
+    targetPrefab: 0
+  - targetObject: 612
+    targetPrefab: 0
+  - targetObject: 613
+    targetPrefab: 0
+  - targetObject: 614
+    targetPrefab: 0
+  - targetObject: 615
+    targetPrefab: 0
+  - targetObject: 616
+    targetPrefab: 0
+  - targetObject: 617
+    targetPrefab: 0
+  - targetObject: 618
+    targetPrefab: 0
+  - targetObject: 619
+    targetPrefab: 0
+  - targetObject: 620
+    targetPrefab: 0
+  - targetObject: 621
+    targetPrefab: 0
+  - targetObject: 622
+    targetPrefab: 0
+  - targetObject: 623
+    targetPrefab: 0
+  - targetObject: 624
+    targetPrefab: 0
+  - targetObject: 625
+    targetPrefab: 0
+  - targetObject: 626
+    targetPrefab: 0
+  - targetObject: 627
+    targetPrefab: 0
+  - targetObject: 628
+    targetPrefab: 0
+  - targetObject: 629
+    targetPrefab: 0
+  - targetObject: 630
+    targetPrefab: 0
+  - targetObject: 631
+    targetPrefab: 0
+  - targetObject: 632
+    targetPrefab: 0
+  - targetObject: 633
+    targetPrefab: 0
+  - targetObject: 634
+    targetPrefab: 0
+  - targetObject: 635
+    targetPrefab: 0
+  - targetObject: 636
+    targetPrefab: 0
+  - targetObject: 637
+    targetPrefab: 0
+  - targetObject: 638
+    targetPrefab: 0
+  m_LightBakingOutputs:
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 3
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 4
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 17
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 10
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 7
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 30
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 2
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 26
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 0
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 1
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 28
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 11
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 9
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 31
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 20
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 23
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 22
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 21
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 29
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 32
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 15
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 27
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 16
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 8
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 14
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 18
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 13
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 5
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 24
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 25
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 6
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 19
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  - serializedVersion: 2
+    probeOcclusionLightIndex: 12
+    occlusionMaskChannel: -1
+    lightmapBakeMode:
+      lightmapBakeType: 2
+      mixedLightingMode: 2
+    isBaked: 1
+  m_BakedReflectionProbeCubemaps:
+  - {fileID: 8900000, guid: cc3e3ecd5584bc443be894057e1dcfaa, type: 3}
+  m_BakedReflectionProbes: []
+  m_EnlightenData: 556e69747946530000000006352e782e7800323031372e342e333666310000000000000000000000000000000000000000000000000000000000000000000000000000000000
+  m_EnlightenDataVersion: 112

@@ -1,0 +1,6 @@
+public enum GKOFMHEFHDN
+{
+	BLBOPPEBDFH = 0,
+	KABMPLDONIL = 1,
+	DMPMOIBJGJP = 2
+}

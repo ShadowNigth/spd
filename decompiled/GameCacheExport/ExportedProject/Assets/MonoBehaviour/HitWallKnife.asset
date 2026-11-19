@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fee9981ff0df791386bf7d0320379c, type: 3}
+  m_Name: HitWallKnife
+  m_EditorClassIdentifier:
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: 054f7724b27576941b8b621ee0be8ec6, type: 3}
+  - {fileID: 8300000, guid: 661725cf5bd5dfc44adc5ebcb4aa4ada, type: 3}
+  - {fileID: 8300000, guid: a7d3f7d96b7f59248892ade6b689a2d8, type: 3}
+  - {fileID: 8300000, guid: 34add7d9a7325ec46928efbb36184f58, type: 3}
+  - {fileID: 8300000, guid: 86b068830908acc45b3804186378727d, type: 3}

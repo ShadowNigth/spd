@@ -1,0 +1,7 @@
+public enum BEONOIBCNBC : byte
+{
+	JNODLNLEMNM = 0,
+	MLAHIBNJKDJ = 1,
+	BCIHMPMMBBP = 2,
+	JJHMBCMFBCG = 3
+}

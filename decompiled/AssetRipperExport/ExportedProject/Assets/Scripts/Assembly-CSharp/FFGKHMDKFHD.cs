@@ -1,0 +1,5 @@
+public enum FFGKHMDKFHD
+{
+	BPHIKPNKJAN = 0,
+	FFDODCPJDJC = 1
+}

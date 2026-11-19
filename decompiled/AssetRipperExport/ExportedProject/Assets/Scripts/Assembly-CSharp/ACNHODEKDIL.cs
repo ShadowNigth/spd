@@ -1,0 +1,5 @@
+public enum ACNHODEKDIL
+{
+	KGOFOOLHPHL = 0,
+	FPIMDFBPKOI = 1
+}

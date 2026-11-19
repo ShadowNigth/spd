@@ -1,0 +1,411 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17bc0d799dea2f4a571c781ca151ce77, type: 3}
+  m_Name: GUIStringObject
+  m_EditorClassIdentifier:
+  AwardsHostownserver: host own server
+  AwardsPlaySinglePlayer: play single player
+  AwardsSaved20Hostages: ' saved 20 hostages'
+  AwardsDiffused20Bombs: ' diffused 20 bombs'
+  AwardsCaptured20Flags: ' captured 20 flags'
+  AwardsPlanted20Bombs: ' planted 20 bombs'
+  Awards4killsstreakwith: 4 kills streak with  {0}  in  {1}
+  Awards20killsstreakwith: 20 kills streak with  {0}  in  {1}
+  AwardsWith: '  With  '
+  AwardsIn: '  In  '
+  Awards100kills: ' 100 kills '
+  Awards50headshots: ' 50 headshots '
+  Awards100killson: ' 100 kills on '
+  AwardsAchievement: 'Achievement:'
+  AwardsA15deathsstreak: '  a 15 deaths streak'
+  HUDTerroristsWin: Terrorists Win
+  HUDCounterTerroristsWin: Counter Terrorists Win
+  HUDRoundDraw: Round Draw
+  LoaderGuiMap: Map
+  LoaderGuiGameName: GameName
+  LoaderGuiType: Type
+  LoaderGuiPlayers: Players
+  LoaderGuiFlags: Flags
+  LoaderGuiNewVersionAvailable: 'New Version Available:'
+  LoaderGuiYourVersion: "\r\nYour Version:"
+  LoaderGuiLoadingMap: 'Loading Map '
+  LoaderGuiRegularRN: "\r\n"
+  LoaderGuiHeyItLooksLikeYouLaunchedTheFirstTime: Hey, it looks like you launched the first time.
+  LoaderGuiChooseTheAppropriate: 'Choose the appropriate settings for your device below:'
+  LoaderGuiFirstLaunch: First Launch
+  LoaderGuiNews: News
+  LoaderGuiRegisterFirstToVoteOrRequestFeature: register first to vote or request feature
+  LoaderGuiTitle: 'Title:'
+  LoaderGuiDescription: 'Description:'
+  LoaderGuiTagsEQ: 'Tags (eg: bug,zombieMode,bots):'
+  LoaderGuiPleasePostOnly: Please post only feature requests or bug reports
+  LoaderGuiSubmit: submit
+  LoaderGuiCreateRequest: Create Request
+  LoaderGuiPosts: Posts
+  LoaderGuiPendingPosts: Pending Posts
+  LoaderGuiDone: Done
+  LoaderGuiFAQ: F.A.Q
+  LoaderGuiMyPosts: My Posts
+  LoaderGuiPostsTotal: ' Posts Total'
+  LoaderGuiOrderByDate: 'Order by date '
+  LoaderGuiVotesToday: votes today
+  LoaderGuiVotesTotal: votes total
+  LoaderGuiSaveEditedPost: Save Edited Post
+  LoaderGuiVote: Vote
+  LoaderGuiAprove: Aprove
+  LoaderGuiConfirmAction: Confirm action
+  LoaderGuiSelectGameType: Select Game Type
+  LoaderGuiClassic: Classic
+  LoaderGuiClassic2: classic
+  LoaderGuiTeamDeatMatch: Team DeatMatch
+  LoaderGuiDeathMatch: DeathMatch
+  LoaderGuiJuggernautMode: Juggernaut Mode
+  LoaderGuiZombieMode: Zombie Mode
+  LoaderGuiCaptureTheFlag: Capture The Flag
+  LoaderGuiZombieSurvival: Zombie Survival
+  LoaderGuiBotMatch: Bot Match
+  LoaderGuiRegisteredSameDay: Registered same day
+  LoaderGuiFriendsOnly: Friends only
+  LoaderGuiLatestVersion: Latest Version
+  LoaderGuiSinglePlayer: Single Player
+  LoaderGuiMultiPlayer: Multi Player
+  LoaderGuiScoreBoard: ScoreBoard
+  LoaderGuiSettings: Settings
+  LoaderGuiQuit: Quit
+  LoaderGuiSelectServer: Select Server (select nearest location)
+  LoaderGuiLan: Lan
+  LoaderGuiNoneHostedServers: Community Hosted Servers
+  LoaderGuiLanDirectConnect: Lan/Direct Connect
+  LoaderGuiGameName2: 'Game Name:'
+  LoaderGuiMaxPlayers: ' MaxPlayers:'
+  LoaderGuiGameTime: Game Time
+  LoaderGuiPrivateRoom: Private Room
+  LoaderGuiCustomEnable: Custom (enable custom server settings)
+  LoaderGuiLowPingFilter: Low Ping (filter laggers)
+  LoaderGuiShowDownloadedMaps: Show downloaded maps
+  LoaderGuiDownloadedMaps: 'Downloaded maps:'
+  LoaderGuiAddMap: Add Map
+  LoaderGuiSetDefaultMapFolder: Set default map folder
+  LoaderGuiDefaultMapFolder: Default Map folder
+  LoaderGuiEnterMapsLocation: Enter maps location directory with .unity3d files types
+  LoaderGuiSetup: Setup
+  LoaderGuiDownloadableMaps: Downloadable Maps (
+  LoaderGuiNewest: Newest
+  LoaderGuiPopular: Popular
+  LoaderGuiAlphabet: Alphabet
+  LoaderGuiEnterMapsLocationURL: Enter Maps location URL for example http://example.com/map.unity3d
+  LoaderGuiConnectingTo: 'Connecting to '
+  LoaderGuiUnityPortUdpMap: ':unityPort udp map:'
+  LoaderGuiServer: 'Server:'
+  LoaderGuiUsers: ' Users:'
+  LoaderGuiGames: ' Games:'
+  LoaderGuiPing: ' Ping:'
+  LoaderGuiHostGame: Host Game
+  LoaderGuiViewAllVersions: view all versions
+  LoaderGuiCustomVersions: CustomVersions
+  LoaderGuiYourRank: 'Your Rank: '
+  LoaderGuiAll: All
+  LoaderGuiCustom: Custom
+  LoaderGuiTDM: TDM
+  LoaderGuiZombieMode2: ZombieMode
+  LoaderGuiJg: Jg
+  LoaderGuiJuggernaut: Juggernaut
+  LoaderGuiCTF: CTF
+  LoaderGuiBots: Bots
+  LoaderGuiZombieMatch: ZombieMatch
+  LoaderGuiSurvival: Survival
+  LoaderGuiSurvival2: survival
+  LoaderGuiConnectToIp: Connect To Ip
+  LoaderGuiYourIPLan: 'Your IP Lan:'
+  LoaderGuiInet: ' Inet:'
+  LoaderGuiUdpPort: ' udp port:unityPort'
+  LoaderGuiNoGamesAvailable: ..no games available..
+  LoaderGuiConnecting: Connecting
+  LoaderGuiMapLoadingFailed: Map Loading failed
+  LoaderGuiMapLoadedConnecting: Map Loaded Connecting
+  LoaderGuiInitializingServer: Initializing server
+  LoaderGuiConnectedStarting: Connected, Starting
+  LoaderGuiFailedToConnectRoomIsFull: Failed to connect room is full
+  LoaderGuiFailedConnectToServer: Failed connect to server
+  BackText: '<<Back'
+  CloseText: Close
+  CancelText: Cancel
+  AreYouSureText: Are you sure?
+  YesText: Yes!
+  NoText: No.
+  DisconnectText: Disconnect.
+  ExitText: exit
+  JoinedText: 'Joined '
+  SearchText: Search
+  RefreshText: Refresh
+  OtherText: Other
+  ErrorText: Error
+  RegexTrimChars: '[^qwertyuiopasdfghjklzxcvbnm1234567890_]'
+  PressF12ToFullScreen: press F12 to fullscreen
+  TimerIsOver: Buying time is up, wait for a new round.
+  Youarenotinabuyzone: You are not in a buy zone.
+  TimerForBuy: 'TimeLeft:'
+  AccountLoggedAs: 'Logged as '
+  AccountAccountPanel: Account Panel
+  AccountLogout: Log out
+  AccountNewPassword: 'New Password:'
+  AccountChange: Change
+  AccountChangePassword: Change Password
+  AccountNick: 'Nick:'
+  AccountPassword: 'Password:'
+  AccountEmail: 'Email:'
+  AccountLogin: Login
+  AccountRegister: Register
+  AccountForgotPassword: Forgot Password
+  AccountEnteryourValUserName: 'Enter your ValUserName name:'
+  AccountSendpasswordonemail: Send password on email
+  AccountLoggingIn: Logging In
+  AccountHelp: Help
+  AccountLoading: Loading
+  AccountSelectCounterT: Select Counter T
+  AccountSelectTerrorist: Select Terrorist
+  AccountSetClan: Set Clan
+  AccountSendPrivateMessage: Send Private Message
+  AccountremovefromFriends: remove from Friends
+  AccountAddasfriend: Add as friend
+  AccountBanfor30min: Ban for 30 min
+  AccountRole: 'Role: '
+  AccountFriends: Friends(
+  AccountviewProfiles: view Profile
+  AccountConnectingtochat: Connecting to chat..
+  Accountreconnecttochat: reconnect to chat
+  AccountSend: Send
+  AccountOnlineAppend: "\r\n(Online)"
+  Accountusers: users(
+  AccountRegisterFirstAppend: "Register First\r\n"
+  GameGUIGameMenu: Game Menu
+  GameGUISomethingWentWrong: Something went wrong, Please reconnect
+  GameGUIPlayasTerrorists: Play as Terrorists(1)
+  GameGUIPlayasCounterTerrorists: Play as Counter Terrorists(2)
+  GameGUIAutoAssign: Auto Assign(3)
+  GameGUIPlay: Play
+  GameGUIWeaponShop: Weapon Shop
+  GameGUIPlayerList: Player List
+  GameGUIMuteKickReport: Mute/Kick/Report
+  GameGUIWriteReason: Write reason
+  GameGUIReport: Report
+  GameGUIThanksReport: thanks, your report will be reviewed
+  AdvancedSettingsServerSideSettings: Server Side Settings
+  AdvancedSettingsYouCannotChangeServersettings: You cannot change Server settings
+  AdvancedSettingsSettingsFor: 'Settings for '
+  AdvancedSettingsResetWeaponSettings: Reset Settings
+  ServerSettingsNightMode: Night Mode
+  ServerSettingsMatrixMod: Matrix Mod
+  ServerSettingsMatrixThreshold: MatrixThreshold
+  ServerSettingsGameSpeedwhenmatrix: Game Speed when matrix
+  ServerSettingsUnlimitedammo: Unlimited ammo
+  ServerSettingsLimitHealth: Limit Health
+  ServerSettingsFastReload: Fast Reload
+  ServerSettingsSlowdownWhenHit: Slow down When Hit
+  ServerSettingsAllowHealing: Allow Healing
+  ServerSettingsEnableThirdPersonView: Enable Third Person View
+  ServerSettingsPlayerSpeed: Player Speed
+  ServerSettingsPlayerLife: Player Life
+  ServerSettingsPlayerArmour: Player Armour
+  ServerSettingsShootthroughwalls: Shoot through walls
+  ServerSettingsMedsKitsonmap: MedsKits on map
+  ServerSettingsfixSeeThroughwalls: fix See Through walls
+  ServerSettingsBotDamage: Bot Damage
+  ServerSettingsCanGoThroughPlayer: Can Go Through Player
+  ServerSettingsJuggernautHealth: Juggernaut Health
+  ServerSettingsJuggernautSpeed: Juggernaut Speed
+  ServerSettingsEnableBodyParts: Enable Body Parts (harder to kill)
+  ServerSettingsAllowjoinanyteams: Allow join any teams (disable balance)
+  ServerSettingsShowEnemyOnRadar: Show Enemy On Radar
+  ServerSettingsBotLife: Bot Life
+  ServerSettingsBuyTime: Buy Time
+  ServerSettingsRoundTime: Round Time
+  ServerSettingsBotsSpawnInterval: Bots Spawn Interval
+  ServerSettingsBotSpawnCount: Bot Spawn Count
+  ServerSettingsMonsters: Monsters
+  ServerSettingsFattys: Fattys
+  ServerSettingsTerrorists: Terrorists
+  ServerSettingsKamikazes: Kamikazes
+  ServerSettingsZombieHealth: Zombie Health
+  ServerSettingszombieSpeed: zombie Speed
+  ServerSettingsMapScale: Map Scale
+  ServerSettingsNetworkRate: 'Network Rate '
+  ServerSettingsKBsec: 'KB/sec '
+  ServerSettingsWeaponSettings: Weapon Settings
+  ServerSettingsSetCTSpawn: Set CT Spawn
+  ServerSettingsSetTSpawn: Set T Spawn
+  ServerSettingsSetZombieSpawn: Set Zombie Spawn
+  ServerSettingsNowZombieswillspawnhere: now zombies will spawn here
+  ServerSettingsSettingsChanged: 'Settings Changed:'
+  DrawBotMenuBots: ' Bots'
+  DrawBotMenuMinusBot: -1 bot
+  DrawBotMenuPlusBot: +1 bot
+  Controls: Controls
+  ControlsSetKeys: Set Keys
+  ControlsEnableGui: Enable Gui
+  ControlsSensX: sensivityX
+  ControlsSensY: sensivityY
+  ControlsWeaponAutoSwitch: Auto switch weapon on pickup
+  ControlsShowHideButtons: Show/Hide Buttons
+  ControlsShowHideButtons2: Show Hide Buttons
+  ControlslockFire: lock rotation when fire
+  ControlsTouch2: Use New Touch System
+  ControlsEnableSmooth: Enable Smooth
+  ControlsSensivityBoost: Sensivity Boost
+  ControlsNoiseRemover: Noise Remover
+  ControlsNoiseThreshold: Noise Threshold
+  ControlsShootOnDoubleTouch: Shoot On DoubleTouch
+  ControlsDoubleTouchJump: Jump/Crouch On Pad DoubleTouch
+  ControlsSecondAim: Second Aim
+  ControlsInvertMouseY: Invert Mouse Y
+  ControlsInvertMouseX: Invert Mouse X
+  ControlsReset: Reset Controls
+  Gameishostnow: ' is host now'
+  GameNightModeOn: Night Mode On
+  GameWeaponsettingsReseted: Weapon settings Reseted
+  GameSetCustomValueObjkeynotexists: 'SetCustomValueObj key not exists '
+  GameMembernotfound: 'Member not found: '
+  GameGamePrefab: '!Game'
+  GameRound: Round
+  GameCSPort: csport
+  GameinGame: '(inGame) '
+  GameChatTeam: '[Team]'
+  GameSurvived: ' Survived'
+  GameBotName:
+  GameAchivementAwardedGoldMedal: 'Achivement Awarded: Gold Medal'
+  GameMatrixModeOn: Matrix Mode On
+  GameShootThroughWallsDisabled: Shoot Through Walls Disabled
+  GameMapsnotequal: ' Maps not equal '
+  GameMapScaleSetTo: 'Map scale set to '
+  GameWarningNotSpawnsFounded: 'Warning not spawns founded: '
+  GameDisconnected: 'Disconnected '
+  GameResettingsSettings: Resettings Settings
+  ChatGameTeam: '[Team]:'
+  ChatGame:
+  ScoreboardGameDead: Dead
+  ScoreboardGameHost: Host
+  GameMatchReport: Match Report
+  GameMatchStats: 'Match Stats:'
+  GameMatchAwards: 'Awards:'
+  GameMatchGameType: GameType
+  GameMatchKills: Kills
+  GameMatchDeaths: Deaths
+  GameMatchHeadShots: HeadShots
+  GameMatchCaptures: Captures
+  GameMatchMedals: Medals
+  GameMatchMoney: Money
+  AccountPMs: Account PMs(
+  Console: Console
+  ConsoleExitError: 'Exit Error:'
+  ConsoleLines: ___________________
+  ConsoleFormatGet1: "{3} {0} {1}\n {2}\n\n"
+  ConsoleOnClickLog: on click log ctrl+c to copy
+  ConsoleShowCallStack: show Callstack
+  ConsoleOnLogAppendVersion: ' Version:'
+  ConsoleOnLogAppendVisible: ' Visible:'
+  ConsoleOnLogAppendWarning: ' Warning:'
+  ConsoleOnLogAppendError: ' Error:'
+  ConsoleOnLogAppendErrors: ' Errors:'
+  ConsoleOnLogAppendPrint: ' Print:'
+  ConsoleOnLogAppendDict: ' Dict:'
+  ConsoleOnLogAppendRPC: ' Rpc:'
+  ConsoleOnLogAppendTimer: ' Timer:'
+  ConsoleOnLogAppendPool: 'Pool: '
+  ConsoleOnLogAppendCon: ' Con:'
+  ConsoleOnLogAppendMem: ' Mem'
+  ConsoleOnLogCallUnity: 'Unity:'
+  ConsoleOnLogCallConsole: console.
+  ConsoleOnLogCallError: error
+  ConsoleOnLogCallLog: log
+  ConsoleOnLogCallWarn: warn
+  Country: FI
+  ScreenshotUploadingScreenshot: Uploading Screenshot
+  ScreenshotCopyScreenshotUrlToClipboard: Copy screenshot url to clipboard
+  ShowMemoryTextures: 'textuers:'
+  ShowMemoryAnimations: ' animations:'
+  ShowMemorySounds: ' sounds'
+  ShowMemoryUnload: Unload
+  PresetSettings: 'Preset Settings Game: '
+  PresetSettingsUltra: Ultra
+  PresetSettingsVeryHigh: Very High
+  PresetSettingsHigh: High
+  PresetSettingsNormal: Normal
+  PresetSettingsMedium: Medium
+  PresetSettingsLow: Low
+  PresetSettingsCustomUser: Custom User
+  HighRendering: High Rendering
+  RenderSettingsPresetSlected: 'Preset Selected: '
+  RenderSettingsRendering: Rendering
+  RenderSettingsPixelLightCount: Pixel Light Count
+  RenderSettingsTextureQuality: Texture Quality
+  RenderSettingsAnisotropicFiltering: Anisotropic Filtering
+  RenderSettingsAntiAliasingLevel: 'Anti Aliasing Level: '
+  RenderSettingsDisable: Disable
+  RenderSettings2xMultiSampling: 2x Multi Sampling
+  RenderSettings4xMultiSampling: 4x Multi Sampling
+  RenderSettings8xMultiSampling: 8x Multi Sampling
+  RenderSettingsShadowProjectionMode: 'Shadow Projection Mode: '
+  RenderSettingsShadowProjection: Shadow Projection
+  RenderSettingsShadowCascadesModeNoCascades: 'Shadow Cascades Mode: No Cascades'
+  RenderSettingsShadowCascadesModeTwoCascades: 'Shadow Cascades Mode: Two Cascades'
+  RenderSettingsShadowCascadesModeFourCascades: 'Shadow Cascades Mode: Four Cascades'
+  RenderSettingsNoCascades: No Cascades
+  RenderSettingsTwoCascades: Two Cascades
+  RenderSettingsFourCascades: Four Cascades
+  RenderSettingsShadowDistance: Shadow Distance
+  RenderSettingsBlendWeightMode: 'Blend Weight Mode: '
+  RenderSettings1Bone: 1 Bone
+  RenderSettings2Bone: 2 Bone
+  RenderSettings4Bone: 4 Bone
+  RenderSettingsVSyncModeDontSync: 'VSync Mode: Don''t Sync'
+  RenderSettingsVSyncModeEveryVBlank: 'VSync Mode: Every VBlank'
+  RenderSettingsVSyncModeEverySecondVBlank: 'VSync Mode: Every Second VBlank'
+  RenderSettingsDontSync: Don't Sync
+  RenderSettingsEveryVBlank: Every VBlank
+  RenderSettingsEverySecondVBlank: Every Second VBlank
+  RenderSettingsLodBias: Lod Bias
+  RenderSettingsParticleRaycastBudget: Particle Raycast Budget
+  SettingsVersion: 'version:'
+  SettingsSelectLanguage: Select Language
+  SettingsResetAllSettingstodefault: Reset All Settings to default
+  SettingsFullScreen: FullScreen
+  SettingsFullScreenF12: (F12)
+  SettingsSetResolution: Set Resolution
+  SettingsHighQualityTextures: High Quality Textures
+  SettingsUpdateOnlyVisiblePlayers: Update Only Visible Players(Increases fps)
+  SettingsUpdateGlobalKey: Update Global Key (If Multiplayer not working)
+  SettingsDisableChat: Disable Chat
+  SettingsMotionblur: Motion blur
+  SettingsBloom: Bloom
+  SettingsBloomIntensivity: Bloom Intensivity
+  SettingsAmbientShadows: Ambient Shadows
+  SettingsAmbientShadowsintensivity: Ambient Shadows intensivity
+  SettingsAmbientShadowsRadius: Ambient Shadows Radius
+  SettingsContrastEnhance: Contrast Enhance
+  SettingsTiltShift: Tilt Shift
+  Settingsbrightness: brightness
+  SettingsEnableGui: Enable Gui
+  SettingsFieldofView: Field of View
+  SettingsOcclusionculling: Occlusion culling, hide map parts
+  SettingsEnableEffects: Enable Effects (decreses fps)
+  SettingsEnableBulleteffect: Enable Bullet effect
+  SettingsShowLog: Show Log
+  SettingsdisableLights: disable Lights
+  SettingsMaxVisiblePlayers: Max Visible Players
+  SettingsEnableLogging: Enable Logging (decreases fps)
+  SettingsEnableSound: Enable Sound(decreases fps)
+  SettingsSoundVol: Sound Vol
+  SettingsEnableBlood: Enable Blood
+  SettingsDisableHeadShotsound: Disable HeadShot sound
+  SettingsRadarScale: Radar Scale
+  SettingsEnableRadar: Enable Radar
+  Settingslist: list
+  SettingsShowMemory: ShowMemory

@@ -1,0 +1,19 @@
+public enum PhotonNetworkingMessage
+{
+	OnConnectedToPhoton,
+	OnLeftRoom,
+	OnMasterClientSwitched,
+	OnPhotonCreateGameFailed,
+	OnPhotonJoinGameFailed,
+	OnCreatedRoom,
+	OnJoinedLobby,
+	OnLeftLobby,
+	OnDisconnectedFromPhoton,
+	OnFailedToConnectToPhoton,
+	OnReceivedRoomList,
+	OnReceivedRoomListUpdate,
+	OnJoinedRoom,
+	OnPhotonPlayerConnected,
+	OnPhotonPlayerDisconnected,
+	OnPhotonRandomJoinFailed
+}

@@ -1,0 +1,250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7425255b9a6d034c277004725a09b27f, type: 3}
+  m_Name: GameScriptObject
+  m_EditorClassIdentifier:
+  AutoShoot:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  AimDownSights:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  EnableRun:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  enableShootingZombies:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  EnableBarricades:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  nextRoundRemoveZombies:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  canBuyWeaponsAnyTime:
+    currentCryptoKey: 215
+    hiddenValue: 2
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  ObservingOwnTeam:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  DisableCursor:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  FriendlyFire:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  delayedBullets:
+    currentCryptoKey: 215
+    hiddenValue: 2
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  EnableStartTime:
+    currentCryptoKey: 215
+    hiddenValue: 2
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  AutoShootStartsIn:
+    currentCryptoKey: 230887
+    hiddenValue: 1042061949
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 0.3
+    fakeValueActive: 1
+  fireBallSpeed:
+    currentCryptoKey: 230887
+    hiddenValue: 1099244519
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 10
+    fakeValueActive: 1
+  spawnInterval:
+    currentCryptoKey: 230887
+    hiddenValue: 1082500071
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 5
+    fakeValueActive: 1
+  bulletSpeed:
+    currentCryptoKey: 230887
+    hiddenValue: 1116064743
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 100
+    fakeValueActive: 1
+  zombieDamage:
+    currentCryptoKey: 230887
+    hiddenValue: 1116064743
+    hiddenValueOldByte4:
+      b1: 0
+      b2: 0
+      b3: 0
+      b4: 0
+    inited: 1
+    fakeValue: 100
+    fakeValueActive: 1
+  zombieShootingINterval:
+    currentCryptoKey: 444444
+    hiddenValue: 444435
+    inited: 1
+    fakeValue: 15
+    fakeValueActive: 1
+  BaricadeLife:
+    currentCryptoKey: 444444
+    hiddenValue: 444904
+    inited: 1
+    fakeValue: 500
+    fakeValueActive: 1
+  killAwardsEnabled:
+    currentCryptoKey: 215
+    hiddenValue: 2
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  bigHitBox:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  enableGunAmout:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  disableHeadshot:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  jumpShoot:
+    currentCryptoKey: 215
+    hiddenValue: 2
+    inited: 1
+    fakeValue: 1
+    fakeValueActive: 1
+  spawnKill:
+    currentCryptoKey: 215
+    hiddenValue: 98
+    inited: 1
+    fakeValue: 0
+    fakeValueActive: 1
+  showYouCanAddBotsMessage: 1
+  ShootThroughWalls: 1
+  EnableThirdPersonView: 1
+  secondControll: 0
+  EnableSlowDown: 1
+  EnableHealing: 0
+  Special: 0
+  enableVoiceChat: 0
+  dontPackLevel: 0
+  predict: 0
+  onDisabling: 0
+  hasNavMesh: 0
+  EnableMatrix: 0
+  defused: 0
+  exploded: 0
+  LimitHealth: 1
+  antiSwitchShoot: 0
+  Wait: 0
+  gameStarted: 0
+  mbClick: 0
+  doubleTouchJump: 0
+  doubleTouchCrouch: 0
+  PadDoubleTouch: 0
+  StartJoined: 0
+  customAmbient: 0
+  customFogEnabled: 0
+  ShowEnemyOnRadar: 0
+  PacketsReceived: 0
+  TimeScale: 1
+  MapScale: 100
+  spaceModLaserSpeed: 100
+  MatrixGameSpeed: 0.6
+  zombieHealthFactor: 2
+  zombieHealthFactorDeff: 1
+  zombieSpeedFactor: 0.8
+  zombieSpeedFactorDeff: 0.5
+  lastDieTime: 0
+  botSpawn: 4
+  botSpawnDef: 4
+  botAccuracy: 1
+  botAccuracyDef: 0.1
+  botHealth: 100
+  botHealthDef: 10
+  mapScale2: 1
+  LastVoteKick: 0
+  lastNonAutoSHoot: 0
+  roundInterval: 60
+  roundIntervalDef: 60
+  stageTime: 0
+  resetGameTime: 0
+  survTerroristss: 0
+  survMonsterss: 0
+  survFattyss: 1
+  survKamikaze: 0
+  lastMoveTouchJump: 0
+  lastMoveTouchCrouch: 0
+  Pad2Factor: 15
+  push: 99.94
+  buyTimeMax: 20
+  BotCount: 0
+  visUpdateFromLineFactor: 3
+  visUpdateDistance: 1000

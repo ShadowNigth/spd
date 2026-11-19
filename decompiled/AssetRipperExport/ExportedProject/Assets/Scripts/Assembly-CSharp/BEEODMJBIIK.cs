@@ -1,0 +1,6 @@
+public enum BEEODMJBIIK
+{
+	CADEMBMDJCK = 0,
+	CGPKGIPGDLP = 1,
+	BLBOPPEBDFH = 2
+}

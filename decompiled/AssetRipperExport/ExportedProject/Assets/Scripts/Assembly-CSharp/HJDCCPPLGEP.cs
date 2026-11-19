@@ -1,0 +1,6 @@
+public enum HJDCCPPLGEP
+{
+	ADMKOFIIJHN = 0,
+	EAOOBJCIKBN = 1,
+	IHCCAJJIBEL = 2
+}

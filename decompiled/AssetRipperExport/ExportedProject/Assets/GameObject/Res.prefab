@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: Res
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.0270743, y: 1.4194303, z: 4.493308}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e13cfb29c2d1ecd55d51395a1cd01cb, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  FPJLDJIGIEK: {fileID: 8300000, guid: 10a9570b22850654dbf7a9113659dbc5, type: 3}
+  FEEEDNPNBAE: 21
+  APLCCBLHMIF:
+  - mapName: $2000$.unity3dAndroidu4
+    Version: 1
+    IsDev: 1
+    local: 0
+    botPlays: 4873
+    plays: 5289
+    date: 17701224
+  - mapName: awp_lego_2.unity3dAndroidu4
+    Version: 1
+    IsDev: 1
+    local: 0
+    botPlays: 3368
+    plays: 3712
+    date: 17701224
+  - mapName: zoo_test.unity3dAndroidu4
+    Version: 1
+    IsDev: 1
+    local: 0
+    botPlays: 2835
+    plays: 3019
+    date: 17701224
+  NNANOABLNMJ: "test=test74342\r\nircserver=gametestlan.servegame.com\nEnableGuests=0\r\nAimX=2\r\nAimY=1\r\nskins=0|0|0|0|5000|5000|5000|10000|10000|10000|10000\r\ntitle=Critical Strike Portable\r\nlogEnabled=1\r\nmedal=4000\r\ncapture=2000\r\nkill=100\r\nheadshot=150\r\nbotkill=10\r\nhostage=800\r\nflash=35\r\ninfection=100\r\ninfectedKill=500\r\nredirect=http://criticalstrikeportable.com\r\nredirectVersion=2.68\r\n\r\nAK47=300\r\nAWP Sniper=600\r\nXM1014 Shotgun=500\r\nM4A1=300\r\nGrenade=50\r\nsmokegrenade=20\r\nFlash Grenade=20\r\nrankInterval=2\r\n"
+  NFLLOBGKLLO:
+  - 'ArgumentException: GUILayout: Mismatched LayoutGroup.Repaint'
+  - 'ArgumentException: Getting control '
+  - Bot removed
+  - 'InvalidCastException: Cannot cast from source type to destination type.'
+  - GiveBomb
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1709254077376921}
+  m_IsPrefabParent: 1

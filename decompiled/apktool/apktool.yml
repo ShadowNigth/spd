@@ -1,0 +1,29 @@
+version: 2.10.0
+apkFileName: strike_port_destruction_spd.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 16
+  targetSdkVersion: 29
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 6
+  versionName: 0.007ob2
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- resources.arsc
+- assets/GameCache.7z
+- assets/bin/Data/8b1fa2429545f624b9a20c2bdf11e027
+- assets/bin/Data/boot.config
+- assets/bin/Data/7667468bd8375164099f14fb4ae506bc.resource
+- assets/bin/Data/90104c63300c8f7448b6019604eb9633.resource
+- assets/bin/Data/sharedassets1.resource
+- assets/bin/Data/sharedassets2.resource
+- png

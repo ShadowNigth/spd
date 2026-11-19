@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a4fee9981ff0df791386bf7d0320379c, type: 3}
+  m_Name: rif_m4a1
+  m_EditorClassIdentifier:
+  Volume: 1
+  Pitch: 1
+  RandomClip: 1
+  Clip: {fileID: 0}
+  Clips:
+  - {fileID: 8300000, guid: 3be11ab03d9067c4c92bb467679fc4ba, type: 3}
+  - {fileID: 8300000, guid: ec3533597e2cc0c49a37db99485fb536, type: 3}
+  - {fileID: 8300000, guid: af2eb7f194a8de449a16f220faf45e26, type: 3}
+  - {fileID: 8300000, guid: 8702cb48bc4df064da01cff25dde47af, type: 3}

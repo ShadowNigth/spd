@@ -1,0 +1,47 @@
+using UnityEngine;
+using UnityEngine.UI;
+
+public class ABIKNLILKPN : MonoBehaviour
+{
+	public Text OGNANBOCPPO;
+
+	public Text BIPKJPHJCMI;
+
+	public Text JCMCPIPHDHB;
+
+	public Text CMFHKELIOEA;
+
+	public Text BLGILFLFHNI;
+
+	public RawImage NBKBDFPMPBN;
+
+	public Image GCIONHPEIIE;
+
+	public void APAEBBECICP(string MHEOBOMBCFM, string PNHKNBBFNJM, string FIPNNJPILOH, string LBKOHPIDKFH, string KIDFODCBGNA)
+	{
+		OGNANBOCPPO.text = MHEOBOMBCFM;
+		BIPKJPHJCMI.text = PNHKNBBFNJM;
+		JCMCPIPHDHB.text = FIPNNJPILOH;
+		CMFHKELIOEA.text = LBKOHPIDKFH;
+		BLGILFLFHNI.text = KIDFODCBGNA;
+	}
+
+	public void HELLHMGDEFB(Texture2D LICHIBNJNJO)
+	{
+		NBKBDFPMPBN.texture = LICHIBNJNJO;
+	}
+
+	public void KBNNNFLHNMB(Color JPLPPELPDKF)
+	{
+		OGNANBOCPPO.color = JPLPPELPDKF;
+		BIPKJPHJCMI.color = JPLPPELPDKF;
+		JCMCPIPHDHB.color = JPLPPELPDKF;
+		CMFHKELIOEA.color = JPLPPELPDKF;
+		BLGILFLFHNI.color = JPLPPELPDKF;
+	}
+
+	public void OBDIFCJPNLD(Color JPLPPELPDKF)
+	{
+		GCIONHPEIIE.color = JPLPPELPDKF;
+	}
+}

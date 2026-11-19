@@ -1,0 +1,6 @@
+public enum FBKBAJFPLNK
+{
+	DMELFHOKGBG = 0,
+	HJFDEGMFGDP = 1,
+	AEBKICLHBHG = 2
+}

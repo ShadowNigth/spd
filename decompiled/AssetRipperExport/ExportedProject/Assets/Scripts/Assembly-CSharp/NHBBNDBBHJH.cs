@@ -1,0 +1,6 @@
+public enum NHBBNDBBHJH
+{
+	PBFOOLLHFKM = 0,
+	MDCGNDPBALA = 1,
+	GCNIKOENGKM = 2
+}

@@ -1,0 +1,5 @@
+public enum GNMDFPDBPEI : byte
+{
+	CKGPDOGEHBB,
+	IOKNFMCJIHM
+}

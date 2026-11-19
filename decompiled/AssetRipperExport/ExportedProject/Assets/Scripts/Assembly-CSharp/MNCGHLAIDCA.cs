@@ -1,0 +1,1 @@
+internal delegate void MNCGHLAIDCA(object FFBEPGEKANM, OGDMCPOJKLP ACALPNFLMEP);

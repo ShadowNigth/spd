@@ -1,0 +1,6 @@
+public enum GIKMCNPDMML
+{
+	INBCLMHIHFL = 0,
+	DFIGPIIOAEH = 1,
+	CGKLJIOMDDG = 2
+}

@@ -1,0 +1,5 @@
+public enum NCCICBAAOAI
+{
+	BJFBKNMLIBD = 0,
+	OJEHMMKPGAO = 1
+}

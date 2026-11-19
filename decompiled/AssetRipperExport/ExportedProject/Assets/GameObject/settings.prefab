@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1709254077376921
+GameObject:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_Component:
+  - component: {fileID: 4730242686860875}
+  - component: {fileID: 114724804207875695}
+  m_Layer: 0
+  m_Name: settings
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4730242686860875
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1709254077376921}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -0, z: -0}
+--- !u!114 &114724804207875695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1709254077376921}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 64fb7b0dd37da48297fc95e34809ee2b, type: 3}
+  m_Name:
+  m_EditorClassIdentifier:
+  BHCIEFHBOPB: {fileID: 11400000, guid: 9875cc5091160204bb2efea4dc1b0160, type: 2}
+  FKICDOGJIFN: {fileID: 11400000, guid: d4e88e1fe35f3334cb69d5eff19048fa, type: 2}
+  EKPLFFMMPEA: {fileID: 11400000, guid: 49c40fa739f2eed49bc8ae351ad1e1d5, type: 2}
+  IHBFPOOLCFD: 0
+  BJAFFONCOGA:
+  EHJJEHCPHEP: -33
+  LDIIPMIIBMA: 0
+  FMFLMEBHEPN: 0
+  MCENKACBEHI: 0
+  MHOHCMOOGCC: 0
+  FMFBOFDMIOG: 1
+  JOKJANPLMHI: 0
+  ICOMKPIKMDK: 1
+  JCEDGFEJCBH: 0
+  PEMANKHDNGO: 0
+  PPNJAEOCJKP: 0
+  CPJKMDCJANM: 1
+  BHHJDJCILHC: 0
+  AJJPBLBJNFB: 0
+  IDNIJGEJJKH: 0
+  AMKPFEHOHJD: keydifggrrty
+  DKPGCEABLDP: 0.007ob2
+  HKAGPIIOKEP: 0.007ob2
+  MMHLHLOBIMI:
+  - f21a5fc5-b9b5-4a54-897c-3b50d0b96b92
+  - 7595a695-0446-46ef-a6f3-44692e7bcbf4
+  - 72ee1b82-34f7-47da-93b1-6b6b6d3d0613
+  - 557735b6-357f-45e9-b2fc-bbbd95dce9ca
+  - 55abaf17-72f5-45ed-bb01-e6e9fdcf37a6
+  - 6718cacf-f184-42bd-924b-4777ccc37268
+  GJPOFKBMIEE: 1683
+  NJAGHCNHJAO: 24.05.2020
+  ICFJPFPPMBP: 1
+  OFEHJLELLAN:
+  - 1
+  - 1
+  - 1
+  - 1
+  - 1
+  - 4
+  - 2
+  - 1
+  - 1
+  - 1.5
+  - 1.5
+  DJBDDPKLKDP:
+  - AK47_fp
+  - ricochet_04
+  - ricochet_01
+  - ricochet_03
+  - ricochet_02
+  - AK47_dist
+  - headshotDisabled
+  - sprint
+  - de_fire1
+  - Shotgun8
+  - m82_fire1
+  KKKONAPJJKO: 0
+  KLMENBBCDJC: 1
+  ECPNABNEGAN: 0
+  LMPHJCDENFF:
+  - http://spdlegacy.servegame.com:1080/server/maps/
+  IDHMKKBEBCG:
+  - http://spdlegacy.servegame.com:1080/server/maps/
+  MGKDMDLBCOE: []
+  EIFADHFAGJO: 0.03
+--- !u!1001 &100100000
+Prefab:
+  serializedVersion: 2
+  m_ObjectHideFlags: 1
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1709254077376921}
+  m_IsPrefabParent: 1
